@@ -1,16 +1,15 @@
-# 
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Martin Wimpress <code@flexion.org>, 2019
 # Steven Maddox <s.maddox@lantizia.me.uk>, 2019
-# Andi Chandler <andi@gowling.com>, 2023
+# Andi Chandler <andi@gowling.com>, 2026
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>, 2023\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>, 2026\n"
 "Language-Team: English (United Kingdom) (https://app.transifex.com/mate/teams/13566/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1622,6 +1621,9 @@ msgid ""
 "Release the keys to select a window. You can press the "
 "<keycap>Shift</keycap> key to cycle through the windows in reverse order."
 msgstr ""
+"Switch between windows. A list of windows that you can select is displayed. "
+"Release the keys to select a window. You can press the "
+"<keycap>Shift</keycap> key to cycle through the windows in reverse order."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:673
@@ -1629,6 +1631,8 @@ msgid ""
 "<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>Tab</keycap></keycombo>"
 msgstr ""
+"<keycombo> <keycap>Ctrl</keycap><keycap>Alt</keycap> "
+"<keycap>Tab</keycap></keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:679
@@ -1638,16 +1642,20 @@ msgid ""
 "press the <keycap>Shift</keycap> key to cycle through the items in reverse "
 "order."
 msgstr ""
+"Switch the focus between the panels and the desktop. A list of items that "
+"you can select is displayed. Release the keys to select an item. You can "
+"press the <keycap>Shift</keycap> key to cycle through the items in reverse "
+"order."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:690
 msgid "Window Shortcut Keys"
-msgstr ""
+msgstr "Window Shortcut Keys"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:695
 msgid "<primary>shortcut keys</primary> <secondary>window</secondary>"
-msgstr ""
+msgstr "<primary>shortcut keys</primary> <secondary>window</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:700
@@ -1656,31 +1664,34 @@ msgid ""
 "currently focused window. The following table lists some window shortcut "
 "keys:"
 msgstr ""
+"Window shortcut keys allow you to use the keyboard to perform tasks on the "
+"currently focused window. The following table lists some window shortcut "
+"keys:"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:734
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F4</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:739
 msgid "Close the currently focused window."
-msgstr ""
+msgstr "Close the currently focused window."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:744
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F5</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F5</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:749
 msgid "Unmaximize the current window, if it is maximized."
-msgstr ""
+msgstr "Unmaximise the current window, if it is maximised."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:754
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F7</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F7</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:759
@@ -1689,11 +1700,14 @@ msgid ""
 "move the window using either the mouse or the arrow keys. To finish the "
 "move, click the mouse or press any key on the keyboard."
 msgstr ""
+"Move the currently focused window. After pressing this shortcut, you can "
+"move the window using either the mouse or the arrow keys. To finish the "
+"move, click the mouse or press any key on the keyboard."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:767
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F8</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F8</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:772
@@ -1702,31 +1716,34 @@ msgid ""
 "resize the window using either the mouse or the arrow keys. To finish "
 "resizing, click the mouse or press any key on the keyboard."
 msgstr ""
+"Resize the currently focused window. After pressing this shortcut, you can "
+"resize the window using either the mouse or the arrow keys. To finish "
+"resizing, click the mouse or press any key on the keyboard."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:780
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F9</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F9</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:785
 msgid "Minimize the current window."
-msgstr ""
+msgstr "Minimise the current window."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:790
 msgid "<keycombo> <keycap>Alt</keycap><keycap>F10</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>F10</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:795
 msgid "Maximize the current window."
-msgstr ""
+msgstr "Maximise the current window."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:800
 msgid "<keycombo> <keycap>Alt</keycap><keycap>spacebar</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Alt</keycap><keycap>spacebar</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:805
@@ -1735,6 +1752,9 @@ msgid ""
 "allows you to perform actions on the window, such as minimizing, moving "
 "between workspaces, and closing."
 msgstr ""
+"Open the window menu for the currently selected window. The window menu "
+"allows you to perform actions on the window, such as minimising, moving "
+"between workspaces, and closing."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:812
@@ -1742,6 +1762,8 @@ msgid ""
 "<keycombo> <keycap>Shift</keycap><keycap>Ctrl</keycap><keycap>Alt</keycap> "
 "<keycap>Arrow keys</keycap> </keycombo>"
 msgstr ""
+"<keycombo> <keycap>Shift</keycap><keycap>Ctrl</keycap><keycap>Alt</keycap> "
+"<keycap>Arrow keys</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:818
@@ -1750,16 +1772,19 @@ msgid ""
 " <xref linkend=\"overview-workspaces\"/> for more information on working "
 "with multiple workspaces."
 msgstr ""
+"Move the current window to another workspace in the specified direction. See"
+" <xref linkend=\"overview-workspaces\"/> for more information on working "
+"with multiple workspaces."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:828
 msgid "Application Keys"
-msgstr ""
+msgstr "Application Keys"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:835
 msgid "<primary>shortcut keys</primary> <secondary>application</secondary>"
-msgstr ""
+msgstr "<primary>shortcut keys</primary> <secondary>application</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:840
@@ -1768,76 +1793,79 @@ msgid ""
 "use shortcut keys to perform application tasks more quickly than if you use "
 "a mouse. The following table lists some common application shortcut keys:"
 msgstr ""
+"Application shortcut keys enable you to perform application tasks. You can "
+"use shortcut keys to perform application tasks more quickly than if you use "
+"a mouse. The following table lists some common application shortcut keys:"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:862
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>N</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>N</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:867
 msgid "Create a new document or window."
-msgstr ""
+msgstr "Create a new document or window."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:872
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>X</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>X</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:877
 msgid "Cut the selected text or region and place it on the clipboard."
-msgstr ""
+msgstr "Cut the selected text or region and place it on the clipboard."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:883
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>C</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>C</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:888
 msgid "Copy the selected text or region onto the clipboard."
-msgstr ""
+msgstr "Copy the selected text or region onto the clipboard."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:893
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>V</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>V</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:898
 msgid "Paste the contents of the clipboard."
-msgstr ""
+msgstr "Paste the contents of the clipboard."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:903
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>Z</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>Z</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:908
 msgid "Undo the last action."
-msgstr ""
+msgstr "Undo the last action."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:913
 msgid "<keycombo> <keycap>Ctrl</keycap><keycap>S</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Ctrl</keycap><keycap>S</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:918
 msgid "Save the current document to disk."
-msgstr ""
+msgstr "Save the current document to disk."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:923
 msgid "<keycap>F1</keycap>"
-msgstr ""
+msgstr "<keycap>F1</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:926
 msgid "Load the online help document for the application."
-msgstr ""
+msgstr "Load the online help document for the application."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:933
@@ -1847,72 +1875,77 @@ msgid ""
 "perform operations that you might normally perform with a mouse. The "
 "following table describes some interface control keys:"
 msgstr ""
+"In addition to these shortcut keys, all applications support a set of keys "
+"to navigate and work with the user interface. These keys allow you to "
+"perform operations that you might normally perform with a mouse. The "
+"following table describes some interface control keys:"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:945
 msgid "Keys"
-msgstr ""
+msgstr "Keys"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:955
 msgid "Arrow keys or <keycap>Tab</keycap>"
-msgstr ""
+msgstr "Arrow keys or <keycap>Tab</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:958
 msgid "Move between controls in the interface or items in a list."
-msgstr ""
+msgstr "Move between controls in the interface or items in a list."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:964
 msgid "<keycap>Enter</keycap> or <keycap>spacebar</keycap>"
-msgstr ""
+msgstr "<keycap>Enter</keycap> or <keycap>spacebar</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:967
 msgid "Activate or choose the selected item."
-msgstr ""
+msgstr "Activate or choose the selected item."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:972
 msgid "<keycap>F10</keycap>"
-msgstr ""
+msgstr "<keycap>F10</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:975
 msgid "Activate the left-most menu of the application window."
-msgstr ""
+msgstr "Activate the left-most menu of the application window."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:980
 msgid "<keycombo> <keycap>Shift</keycap><keycap>F10</keycap> </keycombo>"
-msgstr ""
+msgstr "<keycombo> <keycap>Shift</keycap><keycap>F10</keycap> </keycombo>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:985
 msgid "Activate the context menu for the selected item."
-msgstr ""
+msgstr "Activate the context menu for the selected item."
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:990
 msgid "<keycap>Esc</keycap>"
-msgstr ""
+msgstr "<keycap>Esc</keycap>"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:993
 msgid ""
 "Close a menu without selecting a menu item, or cancel a drag operation."
 msgstr ""
+"Close a menu without selecting a menu item, or cancel a drag operation."
 
 #. (itstool) path: info/title
 #: C/gosbasic.xml:1002
 msgid "Access Keys"
-msgstr ""
+msgstr "Access Keys"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:1008
 msgid "<primary>access keys</primary>"
-msgstr ""
+msgstr "<primary>access keys</primary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:1012
@@ -1922,6 +1955,11 @@ msgid ""
 " is an underlined letter in a menubar, menu, or dialog that you can use to "
 "perform an action. On a menubar, the access key for each menu is underlined."
 msgstr ""
+"A <firstterm>menubar</firstterm> is a bar at the top of a window that "
+"contains the menus for the application. An <firstterm>access key</firstterm>"
+" is an underlined letter in a menubar, menu, or dialogue that you can use to"
+" perform an action. On a menubar, the access key for each menu is "
+"underlined."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:1018
@@ -1931,6 +1969,10 @@ msgid ""
 " a menu item when a menu is displayed, you can simply press the access key "
 "for the menu item."
 msgstr ""
+"To open a menu, hold the <keycap>Alt</keycap> key, then press the access "
+"key. In the menu, the access key for each menu item is underlined. To choose"
+" a menu item when a menu is displayed, you can simply press the access key "
+"for the menu item."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:1023
@@ -1941,6 +1983,11 @@ msgid ""
 "<guimenu>File</guimenu> menu, then press <keycap>N</keycap> to activate the "
 "<guimenuitem>New Window</guimenuitem> menu item."
 msgstr ""
+"For example, to open a new window in the <application>Help</application> "
+"application, press "
+"<keycombo><keycap>Alt</keycap><keycap>F</keycap></keycombo> to open the "
+"<guimenu>File</guimenu> menu, then press <keycap>N</keycap> to activate the "
+"<guimenuitem>New Window</guimenuitem> menu item."
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:1028
@@ -1949,11 +1996,15 @@ msgid ""
 "one letter in most dialog elements is underlined. To access a particular "
 "dialog element, hold <keycap>Alt</keycap>, then press the access key."
 msgstr ""
+"You can also use access keys to access elements in a dialogue. In a "
+"dialogue, one letter in most dialogue elements is underlined. To access a "
+"particular dialogue element, hold <keycap>Alt</keycap>, then press the "
+"access key."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:6
 msgid "Configuring Your Desktop"
-msgstr ""
+msgstr "Configuring Your Desktop"
 
 #. (itstool) path: highlights/para
 #: C/goscustdesk.xml:22
@@ -1961,6 +2012,8 @@ msgid ""
 "This chapter describes how to use the preference tools to customize the MATE"
 " Desktop."
 msgstr ""
+"This chapter describes how to use the preference tools to customise the MATE"
+" Desktop."
 
 #. (itstool) path: chapter/para
 #: C/goscustdesk.xml:26
@@ -2026,6 +2079,8 @@ msgid ""
 "<primary>accessibility</primary> <secondary>setting assistive technology "
 "preferences</secondary>"
 msgstr ""
+"<primary>accessibility</primary> <secondary>setting assistive technology "
+"preferences</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:43
@@ -2033,6 +2088,8 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Assistive "
 "Technologies</secondary>"
 msgstr ""
+"<primary>preference tools</primary> <secondary>Assistive "
+"Technologies</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:47
@@ -2078,7 +2135,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:63
 msgid "Assistive Technology Preferences"
-msgstr ""
+msgstr "Assistive Technology Preferences"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:70 C/goscustdesk.xml:496 C/goscustdesk.xml:889
@@ -2090,7 +2147,7 @@ msgstr ""
 #: C/goscaja.xml:3120 C/goscaja.xml:3361 C/goscaja.xml:3915 C/goscaja.xml:4067
 #: C/gospanel.xml:168 C/gospanel.xml:253 C/gospanel.xml:1410
 msgid "Dialog Element"
-msgstr ""
+msgstr "Dialogue Element"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:73 C/goscustdesk.xml:499 C/goscustdesk.xml:892
@@ -2111,13 +2168,14 @@ msgstr "Description"
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:80
 msgid "<guilabel>Enable assistive technologies</guilabel>"
-msgstr ""
+msgstr "<guilabel>Enable assistive technologies</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:85
 msgid ""
 "Select this option to enable assistive technologies in the MATE Desktop."
 msgstr ""
+"Select this option to enable assistive technologies in the MATE Desktop."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:87
@@ -2125,11 +2183,13 @@ msgid ""
 "Note that for technical reasons, you have to log in again after enabling "
 "this option for it to be fully effective."
 msgstr ""
+"Note that for technical reasons, you have to log in again after enabling "
+"this option for it to be fully effective."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:96
 msgid "Keyboard Shortcuts Preferences"
-msgstr ""
+msgstr "Keyboard Shortcuts Preferences"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:99
@@ -2137,17 +2197,20 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Keyboard "
 "Shortcuts</secondary>"
 msgstr ""
+"<primary>preference tools</primary> <secondary>Keyboard "
+"Shortcuts</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:103
 msgid "<primary>shortcut keys</primary> <secondary>configuring</secondary>"
-msgstr ""
+msgstr "<primary>shortcut keys</primary> <secondary>configuring</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:107
 msgid ""
 "<primary>keyboard shortcuts</primary> <secondary>configuring</secondary>"
 msgstr ""
+"<primary>keyboard shortcuts</primary> <secondary>configuring</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:111
@@ -2155,6 +2218,8 @@ msgid ""
 "Use the <application>Keyboard Shortcuts</application> preference tool to "
 "customize the default keyboard shortcuts to your requirements."
 msgstr ""
+"Use the <application>Keyboard Shortcuts</application> preference tool to "
+"customise the default keyboard shortcuts to your requirements."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:113
@@ -2164,6 +2229,10 @@ msgid ""
 "more on keyboard shortcuts, and a list of the default shortcuts in MATE, see"
 " <xref linkend=\"keyboard-skills\"/>."
 msgstr ""
+"A <firstterm>keyboard shortcut</firstterm> is a key or combination of keys "
+"that provides an alternative to standard ways of performing an action. For "
+"more on keyboard shortcuts and a list of the default shortcuts in MATE, see "
+"<xref linkend=\"keyboard-skills\"/>."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:116
@@ -2289,12 +2358,15 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Preferred "
 "Applications</secondary>"
 msgstr ""
+"<primary>preference tools</primary> <secondary>Preferred "
+"Applications</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:163
 msgid ""
 "<primary>default applications</primary> <see>preferred applications</see>"
 msgstr ""
+"<primary>default applications</primary> <see>preferred applications</see>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:167
@@ -2327,7 +2399,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:178
 msgid "<guilabel>Internet</guilabel> (Web Browser, Mail Reader)"
-msgstr ""
+msgstr "<guilabel>Internet</guilabel> (Web Browser, Mail Reader)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:183
@@ -2335,12 +2407,15 @@ msgid ""
 "<guilabel>Multimedia</guilabel> (Image Viewer, Multimedia Player, Video "
 "Player)"
 msgstr ""
+"<guilabel>Multimedia</guilabel> (Image Viewer, Multimedia Player, Video "
+"Player)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:188
 msgid ""
 "<guilabel>System</guilabel> (Text Editor, Terminal Emulator, File Manager)"
 msgstr ""
+"<guilabel>System</guilabel> (Text Editor, Terminal Emulator, File Manager)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:193
@@ -2348,11 +2423,13 @@ msgid ""
 "<guilabel>Office</guilabel> (Document Viewer, Word Processor, Spreadsheet "
 "Editor)"
 msgstr ""
+"<guilabel>Office</guilabel> (Document Viewer, Word Processor, Spreadsheet "
+"Editor)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:198
 msgid "<guilabel>Accessibility</guilabel> (Visual, Mobility)"
-msgstr ""
+msgstr "<guilabel>Accessibility</guilabel> (Visual, Mobility)"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:204
@@ -2365,12 +2442,12 @@ msgstr ""
 #. (itstool) path: formalpara/title
 #: C/goscustdesk.xml:205
 msgid "Run at start (Accessibility only)"
-msgstr ""
+msgstr "Run at start (Accessibility only)"
 
 #. (itstool) path: formalpara/para
 #: C/goscustdesk.xml:205
 msgid "Select this option to run the command as soon as your session begins."
-msgstr ""
+msgstr "Select this option to run the command as soon as your session begins."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:209
@@ -2388,37 +2465,40 @@ msgid ""
 "The <application>Appearance</application> preference tool lets you configure"
 " various aspects of how your desktop looks:"
 msgstr ""
+"The <application>Appearance</application> preference tool lets you configure"
+" various aspects of how your desktop looks:"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:216
 msgid "Theme,"
-msgstr ""
+msgstr "Theme,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:219
 msgid "Desktop Background,"
-msgstr ""
+msgstr "Desktop Background,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:222
 msgid "Fonts,"
-msgstr ""
+msgstr "Fonts,"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:225
 msgid "User Interface."
-msgstr ""
+msgstr "User Interface."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:229
 msgid "Theme Preferences"
-msgstr ""
+msgstr "Theme Preferences"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:234
 msgid ""
 "<primary>themes</primary> <secondary>setting controls options</secondary>"
 msgstr ""
+"<primary>themes</primary> <secondary>setting controls options</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:238
@@ -2426,11 +2506,14 @@ msgid ""
 "<primary>themes</primary> <secondary>setting window frame "
 "options</secondary>"
 msgstr ""
+"<primary>themes</primary> <secondary>setting window frame "
+"options</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:242
 msgid "<primary>themes</primary> <secondary>setting icons options</secondary>"
 msgstr ""
+"<primary>themes</primary> <secondary>setting icons options</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:246
@@ -2438,11 +2521,13 @@ msgid ""
 "<primary>windows</primary> <secondary>setting frame theme "
 "options</secondary>"
 msgstr ""
+"<primary>windows</primary> <secondary>setting frame theme "
+"options</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:250
 msgid "<primary>preference tools</primary> <secondary>Theme</secondary>"
-msgstr ""
+msgstr "<primary>preference tools</primary> <secondary>Theme</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:255
@@ -2461,6 +2546,8 @@ msgid ""
 "A theme contains settings that affect different parts of the MATE Desktop, "
 "as follows:"
 msgstr ""
+"A theme contains settings that affect different parts of the MATE Desktop, "
+"as follows:"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:263
@@ -2470,7 +2557,7 @@ msgstr "Controls"
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:265
 msgid "<primary>GTK+ themes</primary><see>themes, controls options</see>"
-msgstr ""
+msgstr "<primary>GTK+ themes</primary><see>themes, controls options</see>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:266
@@ -2478,6 +2565,8 @@ msgid ""
 "<primary>themes</primary><secondary>controls "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>themes</primary><secondary>controls "
+"options</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:265
@@ -2534,7 +2623,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:285
 msgid "Window frame"
-msgstr ""
+msgstr "Window frame"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:287
@@ -2542,11 +2631,14 @@ msgid ""
 "<primary>themes</primary><secondary>window frame "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>themes</primary><secondary>window frame "
+"options</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:287
 msgid "<primary>Marco themes</primary><see>themes, window frame options</see>"
 msgstr ""
+"<primary>Marco themes</primary><see>themes, window frame options</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:287
@@ -2569,11 +2661,13 @@ msgid ""
 "<primary>themes</primary><secondary>icons "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>themes</primary><secondary>icons "
+"options</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:295
 msgid "<primary>icon themes</primary><see>themes, icons options</see>"
-msgstr ""
+msgstr "<primary>icon themes</primary><see>themes, icons options</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:295
@@ -2595,11 +2689,13 @@ msgid ""
 "<primary>themes</primary><secondary>pointer "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>themes</primary><secondary>pointer "
+"options</secondary><tertiary>introduction</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:303
 msgid "<primary>pointer themes</primary><see>themes, pointer options</see>"
-msgstr ""
+msgstr "<primary>pointer themes</primary><see>themes, pointer options</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:303
@@ -4207,7 +4303,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1322
 msgid "<guilabel>Password</guilabel>"
-msgstr ""
+msgstr "<guilabel>Password</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1327
@@ -6878,7 +6974,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:206 C/goscaja.xml:392
 msgid "Component"
-msgstr ""
+msgstr "Component"
 
 #. (itstool) path: entry/para
 #. (itstool) path: term/interface
@@ -10523,7 +10619,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2390 C/goscaja.xml:3735
 msgid "<guilabel>Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Name</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2395
@@ -10535,7 +10631,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2401
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>Location</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2406
@@ -12513,7 +12609,7 @@ msgstr "Information"
 #: C/goscaja.xml:3595 C/goscaja.xml:3745 C/gospanel.xml:189
 #: C/gospanel.xml:1420
 msgid "<guilabel>Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Size</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3600 C/goscaja.xml:3750
@@ -12523,7 +12619,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3605 C/goscaja.xml:3755
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Type</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3610
@@ -12555,7 +12651,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3635 C/goscaja.xml:3818
 msgid "<guilabel>Owner</guilabel>"
-msgstr ""
+msgstr "<guilabel>Owner</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3640 C/goscaja.xml:3823
@@ -14263,7 +14359,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:468
 msgid "Click <guibutton>Open</guibutton>."
-msgstr ""
+msgstr "Click <guibutton>Open</guibutton>."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:469
@@ -14484,7 +14580,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:522
 msgid "Saving a File"
-msgstr ""
+msgstr "Saving a File"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:523
@@ -19641,11 +19737,14 @@ msgid ""
 "xlink:href=\"man:gsettings\"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></link>"
 " for more information on how to use <command>dconf</command>."
 msgstr ""
+"Refer to the <link "
+"xlink:href=\"man:gsettings\"><citerefentry><refentrytitle>gsettings</refentrytitle><manvolnum>1</manvolnum></citerefentry></link>"
+" for more information on how to use <command>dconf</command>."
 
 #. (itstool) path: info/title
 #: C/gosdconf.xml:280
 msgid "To change the value of several dconf keys"
-msgstr ""
+msgstr "To change the value of several dconf keys"
 
 #. (itstool) path: section/para
 #: C/gosdconf.xml:283
@@ -19653,22 +19752,24 @@ msgid ""
 "To change the value of several dconf keys at the same time, perform the "
 "following steps:"
 msgstr ""
+"To change the value of several dconf keys at the same time, perform the "
+"following steps:"
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:288
 msgid "Dump the contents of a dconf directory to a new plain text file:"
-msgstr ""
+msgstr "Dump the contents of a dconf directory to a new plain text file:"
 
 #. (itstool) path: listitem/screen
 #: C/gosdconf.xml:289
 #, no-wrap
 msgid "$ dconf dump /org/mate/desktop/background/ &gt; file.dconf"
-msgstr ""
+msgstr "$ dconf dump /org/mate/desktop/background/ &gt; file.dconf"
 
 #. (itstool) path: listitem/para
 #: C/gosdconf.xml:292
 msgid "Make changes in the plain text file"
-msgstr ""
+msgstr "Make changes in the plain text file"
 
 #. (itstool) path: listitem/literallayout
 #: C/gosdconf.xml:293

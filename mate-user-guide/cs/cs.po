@@ -1,4 +1,3 @@
-# 
 # Translators:
 # Ondřej Kolín <ondrej.kolin@gmail.com>, 2018
 # Michal Procházka <mich.procha@seznam.cz>, 2018
@@ -8,18 +7,19 @@
 # Radek kohout <radekpv@seznam.cz>, 2018
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Wolfgang Ulbrich <mate@raveit.de>, 2019
+# Wolfgang Ulbrich <raveit65.sun@gmail.com>, 2019
 # ToMáš Marný, 2020
 # Pavel Borecki <pavel.borecki@gmail.com>, 2020
 # Roman Horník <roman.hornik@debian-linux.cz>, 2021
 # Lukáš Lommer <drom@kdyne.net>, 2021
+# J Nezbeda, 2026
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Lukáš Lommer <drom@kdyne.net>, 2021\n"
+"Last-Translator: J Nezbeda, 2026\n"
 "Language-Team: Czech (https://app.transifex.com/mate/teams/13566/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3259,7 +3259,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:723
 msgid "<guibutton>Details</guibutton>"
-msgstr ""
+msgstr "<guibutton>Detaily</guibutton>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:725
@@ -3347,7 +3347,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:819
 msgid "<guilabel>Show icons in menus</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zobrazovat ikony v menu</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:821
@@ -3550,7 +3550,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:958
 msgid "<guilabel>None</guilabel>: Do nothing."
-msgstr ""
+msgstr "<guilabel>Žádný</guilabel>: Žádná akce."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:961
@@ -3731,7 +3731,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1030
 msgid "<guilabel>Connections</guilabel>"
-msgstr ""
+msgstr "<guilabel>Spojení</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1032
@@ -3752,7 +3752,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1044
 msgid "<guilabel>DNS</guilabel>"
-msgstr ""
+msgstr "<guilabel>DNS</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1046
@@ -4097,7 +4097,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1205
 msgid "<guilabel>Secure HTTP proxy</guilabel>"
-msgstr ""
+msgstr "<guilabel>Bezpečná HTTP proxy</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1206
@@ -4110,7 +4110,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1211
 msgid "<guilabel>FTP proxy</guilabel>"
-msgstr ""
+msgstr "<guilabel>FTP proxy</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1212
@@ -4178,7 +4178,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1238
 msgid "Remote Desktop Preferences"
-msgstr ""
+msgstr "Předvolby vzdálené plochy"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1241
@@ -4204,7 +4204,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1249
 msgid "Session Sharing Preferences"
-msgstr ""
+msgstr "Předvolby sdílení relace"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1266
@@ -4234,6 +4234,8 @@ msgstr ""
 #: C/goscustdesk.xml:1304
 msgid "<guilabel>When a user tries to view or control your desktop</guilabel>"
 msgstr ""
+"<guilabel>Když se uživatel pokouší zobrazit nebo ovládat vaší "
+"plochu</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1311
@@ -4344,7 +4346,7 @@ msgstr ""
 #: C/goscustdesk.xml:1418 C/goscustdesk.xml:1692 C/goscustdesk.xml:1719
 #: C/goscustdesk.xml:1903
 msgid "<guilabel>Delay</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zpoždění</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1423
@@ -4356,7 +4358,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1429 C/goscustdesk.xml:1450 C/goscustdesk.xml:1891
 msgid "<guilabel>Speed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Rychlost</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1434
@@ -4366,7 +4368,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1439
 msgid "<guilabel>Cursor blinks in text boxes and fields</guilabel>"
-msgstr ""
+msgstr "<guilabel>Kurzor bliká v textových a jiných polí</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1444
@@ -4384,7 +4386,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1461 C/goscustdesk.xml:1730
 msgid "<guilabel>Type to test settings</guilabel>"
-msgstr ""
+msgstr "<guilabel>Klikněte pro otestování nastavení</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1466 C/goscustdesk.xml:1735
@@ -4532,7 +4534,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1526
 msgid "<guilabel>Alt/Win key behavior</guilabel>"
-msgstr ""
+msgstr "<guilabel>chování kláves Alt/Win</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1527
@@ -4751,7 +4753,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1619
 msgid "Accessibility Preferences"
-msgstr ""
+msgstr "Předvolby přístupnosti"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1636
@@ -4807,7 +4809,7 @@ msgstr ""
 #. (itstool) path: entry/indexterm
 #: C/goscustdesk.xml:1680
 msgid "<primary>accessibility</primary> <secondary>slow keys</secondary>"
-msgstr ""
+msgstr "<primary>Přístupnost</primary> <secondary>pomalé klávesy</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1686
@@ -4923,7 +4925,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1808
 msgid "<guilabel>Beep when a key is pressed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zvukové znamení při stisku klávesy</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1813
@@ -4933,7 +4935,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1819
 msgid "<guilabel>Beep when a key is accepted</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zvukové znamení při akceptaci klávesy</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1824
@@ -4943,7 +4945,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1830
 msgid "<guilabel>Beep when a key is rejected</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zvukové znamení při zamítnutí klávesy</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1835
@@ -4953,7 +4955,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1844
 msgid "Mouse Keys Preferences"
-msgstr ""
+msgstr "Předvolby tlačítek myši"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1846
@@ -5470,7 +5472,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2281
 msgid "<guilabel>Single click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Jedno kliknutí</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2286
@@ -5480,7 +5482,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2293
 msgid "<guilabel>Double click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Dvojí kliknutí</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2298
@@ -5490,7 +5492,7 @@ msgstr "Zvolte směr který spustí dvojklik."
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2305
 msgid "<guilabel>Drag click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Kliknutí přetažením</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2310
@@ -5500,7 +5502,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2317
 msgid "<guilabel>Secondary click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Druhé kliknutí</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2322
@@ -5558,7 +5560,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2356
 msgid "<guilabel>Same image in all monitors</guilabel>"
-msgstr ""
+msgstr "<guilabel>Stejný obrázek na všech monitorech</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2357
@@ -5584,7 +5586,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2368
 msgid "<guilabel>Show monitors in panel</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zobrazit monitory na panelu</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2369
@@ -5618,7 +5620,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2387
 msgid "<guilabel>Resolution</guilabel>"
-msgstr ""
+msgstr "<guilabel>Rozlišení</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2388
@@ -5632,7 +5634,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2396
 msgid "<guilabel>Refresh rate</guilabel>"
-msgstr ""
+msgstr "<guilabel>Obnovovací frekvence</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2397
@@ -5647,7 +5649,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2406
 msgid "<guilabel>Rotation</guilabel>"
-msgstr ""
+msgstr "<guilabel>Rotace</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2407
@@ -5858,7 +5860,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2555
 msgid "<guilabel>Input level</guilabel>"
-msgstr ""
+msgstr "<guilabel>Úroveň vstupu</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2560
@@ -6025,12 +6027,12 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2690
 msgid "<guilabel>Session Options</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nastavení relace</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2695
 msgid "<guilabel>Startup Programs</guilabel>"
-msgstr ""
+msgstr "<guilabel>Aplikace po spuštění</guilabel>"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2701
@@ -6059,7 +6061,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2710
 msgid "Session Options"
-msgstr ""
+msgstr "Předvolby relace"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2727
@@ -6067,6 +6069,8 @@ msgid ""
 "<guilabel>Automatically remember running applications when logging "
 "out</guilabel>"
 msgstr ""
+"<guilabel>Automaticky zapamatovat běžící aplikace, když se "
+"odhlašuji</guilabel>"
 
 #. (itstool) path: entry/indexterm
 #: C/goscustdesk.xml:2732 C/goscustdesk.xml:2751
@@ -6103,7 +6107,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2768
 msgid "Configuring Startup Applications"
-msgstr ""
+msgstr "Konfigurovat aplikace po spuštění"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2769
@@ -6137,6 +6141,8 @@ msgid ""
 "<xref linkend=\"goscustsession-TBL-19\"/> lists the startup applications "
 "preferences that you can modify."
 msgstr ""
+"<xref linkend=\"goscustsession-TBL-19\"/> vypsat aplikace po spuštění, jejíž"
+" předvolby můžete upravit."
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2784
@@ -6146,7 +6152,7 @@ msgstr "Předvolby aplikací, spouštěných při přihlášení"
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2801
 msgid "<guilabel> Additional startup programs</guilabel>"
-msgstr ""
+msgstr "<guilabel> Dodatečné aplikace po spuštění</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2806
@@ -6320,13 +6326,13 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:62
 msgid "Your Home folder"
-msgstr ""
+msgstr "Váš domovský adresář"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:63
 msgid ""
 "The Desktop folder, which corresponds to the items displays in the desktop."
-msgstr ""
+msgstr "Adresář Plochy, který odpovídá položkám zobrazeným na ploše."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:64
@@ -6334,11 +6340,13 @@ msgid ""
 "The items in your Caja bookmarks. For more on this, see <xref "
 "linkend=\"caja-bookmarks\"/>."
 msgstr ""
+"Položky, které jsou záložkami v Caja. Pro více informací, viz <xref "
+"linkend=\"caja-bookmarks\"/>."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:65
 msgid "Your computer, which shows all your drives."
-msgstr ""
+msgstr "Váš počítač, což zobrazí všechny vaše disky."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:66
@@ -6346,6 +6354,8 @@ msgid ""
 "The Caja CD/DVD Creator. For more on this, see <xref linkend=\"caja-"
 "cdwriter\"/>."
 msgstr ""
+"Caja CD/DVD tvůrce. Pro více informací, viz <xref linkend=\"caja-"
+"cdwriter\"/>."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:67
@@ -6353,12 +6363,15 @@ msgid ""
 "The local network. For more on this, see <xref linkend=\"caja-"
 "accessnetwork\"/>."
 msgstr ""
+"Místní síť. Pro více informací, viz <xref linkend=\"caja-accessnetwork\"/>."
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:70
 msgid ""
 "The last three items on the menu perform actions rather than open locations."
 msgstr ""
+"Poslední tři položky v menu provádějí obvykle akce spíš než otevření "
+"lokality."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:73
@@ -6366,6 +6379,8 @@ msgid ""
 "<guimenuitem>Connect to Server</guimenuitem> lets you choose a server on "
 "your network. For more on this, see <xref linkend=\"caja-server-connect\"/>."
 msgstr ""
+"<guimenuitem>Připojit k serveru</guimenuitem> umožňuje zvolit server ve vaší"
+" síti. Pro více informací, viz <xref linkend=\"caja-server-connect\"/>."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:74
@@ -6374,6 +6389,9 @@ msgid ""
 "your computer. For more on this, see the <link xlink:href=\"help:mate-"
 "search-tool\">Search for Files Manual</link>."
 msgstr ""
+"<guimenuitem>Hledat soubory</guimenuitem> umožňuje hledat soubory ve vašem "
+"počítači. Pro více informací, viz <link xlink:href=\"help:mate-search-"
+"tool\">Manuál Hledání souborů </link>."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:75
@@ -6411,6 +6429,7 @@ msgstr ""
 #: C/goseditmainmenu.xml:86
 msgid "The <guimenuitem>Help</guimenuitem> item launches the Help Browser."
 msgstr ""
+"Položka <guimenuitem>Nápověda</guimenuitem> spouští průvodce nápovědy."
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:87
@@ -7549,7 +7568,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:483
 msgid "<guilabel>Places</guilabel>"
-msgstr ""
+msgstr "<guilabel>Umístění</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:486
@@ -7559,7 +7578,7 @@ msgstr "Zobrazuje důležitá místa v systému."
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:489
 msgid "<guilabel>Information</guilabel>"
-msgstr ""
+msgstr "<guilabel>Informace</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:492
@@ -7575,7 +7594,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:496
 msgid "<guilabel>Tree</guilabel>"
-msgstr ""
+msgstr "<guilabel>Stromové zobrazení</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:499
@@ -7589,7 +7608,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:503
 msgid "<guilabel>History</guilabel>"
-msgstr ""
+msgstr "<guilabel>Historie</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:506
@@ -7603,7 +7622,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:510
 msgid "<guilabel>Notes</guilabel>"
-msgstr ""
+msgstr "<guilabel>Poznámky</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:513
@@ -8966,7 +8985,7 @@ msgstr "Zobrazení s ikonami"
 #. (itstool) path: info/title
 #: C/goscaja.xml:1149
 msgid "The Home Folder displayed in an icon view"
-msgstr ""
+msgstr "Domovská složka v zobrazení s ikonami."
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9143,7 +9162,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1251
 msgid "<guilabel>By Size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Podle velikosti</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1256
@@ -9161,7 +9180,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1264
 msgid "<guilabel>By Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Podle typu</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1269
@@ -9183,7 +9202,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1279
 msgid "<guilabel>By Modification Date</guilabel>"
-msgstr ""
+msgstr "<guilabel>Podle datumu úpravy</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1284
@@ -9226,7 +9245,7 @@ msgstr "Tuto možnost vyberte, budete-li chtít zobrazit položky blíže u sebe
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1313
 msgid "<guilabel>Reversed Order</guilabel>"
-msgstr ""
+msgstr "<guilabel>Obrácené pořadí</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1318
@@ -9462,6 +9481,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Zoom In "
 "button.</phrase> </textobject>"
 msgstr ""
+"<imageobject> <imagedata fileref=\"figures/caja_zoom_in_button.png\" "
+"format=\"PNG\"/> </imageobject> <textobject> <phrase>Tlačítko "
+"Přiblížení.</phrase> </textobject>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:1444
@@ -11312,7 +11334,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2390 C/goscaja.xml:3735
 msgid "<guilabel>Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Jméno</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2395
@@ -11326,7 +11348,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2401
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>Umístění</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2406
@@ -11882,7 +11904,7 @@ msgstr "<primary>symbolické odkazy</primary> <secondary>a emblémy</secondary>"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2658
 msgid "<_:indexterm-1/>Symbolic link"
-msgstr ""
+msgstr "<_:indexterm-1/>symbolický odkaz"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -12187,7 +12209,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:2863
 msgid "To Mount Media"
-msgstr ""
+msgstr "Připojit média"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2864
@@ -12493,7 +12515,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3020
 msgid "<guilabel>Disc name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Jméno disku</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3025
@@ -12565,7 +12587,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:3069
 msgid "Copying CDs or DVDs"
-msgstr ""
+msgstr "Kopírování CD nebo DVD"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:3070
@@ -12577,7 +12599,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3072
 msgid "Insert the disc you want to copy."
-msgstr ""
+msgstr "Vložte disk, který chcete kopírovat."
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:3073

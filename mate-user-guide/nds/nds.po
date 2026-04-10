@@ -1,15 +1,14 @@
-# 
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Benedikt Straub <benedikt-straub@web.de>, 2018
 # Martin Wimpress <code@flexion.org>, 2019
+# Benedikt Straub <benedikt-straub@web.de>, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Martin Wimpress <code@flexion.org>, 2019\n"
+"Last-Translator: Benedikt Straub <benedikt-straub@web.de>, 2025\n"
 "Language-Team: Low German (https://app.transifex.com/mate/teams/13566/nds/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -467,7 +466,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gosbasic.xml:85 C/gosbasic.xml:255
 msgid "Middle mouse button"
-msgstr ""
+msgstr "Middelste Muustast"
 
 #. (itstool) path: listitem/para
 #: C/gosbasic.xml:86
@@ -506,7 +505,7 @@ msgstr ""
 #. (itstool) path: info/titleabbrev
 #: C/gosbasic.xml:103
 msgid "Actions"
-msgstr "Aktschoonen"
+msgstr "Aktioonen"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:109
@@ -529,7 +528,7 @@ msgstr ""
 #: C/gosbasic.xml:129 C/gosbasic.xml:855 C/gosbasic.xml:948 C/goscaja.xml:759
 #: C/goscaja.xml:1483 C/goscaja.xml:1604 C/gospanel.xml:870 C/gospanel.xml:921
 msgid "Action"
-msgstr "Aktschoon"
+msgstr "Aktioon"
 
 #. (itstool) path: entry/para
 #: C/gosbasic.xml:132
@@ -1883,7 +1882,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:131 C/gosoverview.xml:49
 msgid "Desktop"
-msgstr "Schreibtisch"
+msgstr "Schrievdisk"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:132
@@ -3311,12 +3310,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1020
 msgid "Internet and Network"
-msgstr "Innernet un Netwark"
+msgstr "Innernet un Nettwark"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1022
 msgid "Network Settings"
-msgstr "Netwarkinstellens"
+msgstr "Nettwarkinstellens"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1023
@@ -3393,7 +3392,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1059 C/gospanel.xml:1605
 msgid "Usage"
-msgstr "gebruk"
+msgstr "Bruuk"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1061
@@ -3611,7 +3610,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1146
 msgid "Network Proxy Preferences"
-msgstr "Netwark-Proxy-Instellens"
+msgstr "Nettwark-Proxy-Instellens"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1149
@@ -4104,7 +4103,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:1507
 msgid "Keyboard Layout Options"
-msgstr "Knöppboordutsehnoptschoonen"
+msgstr "Knöppboordutsehn-Instellens"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1510
@@ -5548,7 +5547,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2663
 msgid "System"
-msgstr "System"
+msgstr "Systeem"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2665
@@ -9551,7 +9550,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2070 C/gospanel.xml:812 C/gospanel.xml:835
 msgid "Location"
-msgstr "Ort"
+msgstr "Oort"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2073
@@ -9563,7 +9562,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2078
 msgid "Volume"
-msgstr ""
+msgstr "Luudstarkde"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2081
@@ -9802,7 +9801,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2204
 msgid "Read-only"
-msgstr "Just Lesen"
+msgstr "Blots Lesen"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2206
@@ -9864,7 +9863,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscaja.xml:2247
 msgid "List files only"
-msgstr "Just Listdateien"
+msgstr "Blots Listdateien"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2249
@@ -12088,7 +12087,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3585 C/goscaja.xml:3725
 msgid "Information"
-msgstr "Informatschoon"
+msgstr "Informatioon"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3595 C/goscaja.xml:3745 C/gospanel.xml:189
@@ -13960,7 +13959,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosoverview.xml:497
 msgid "Open Location"
-msgstr "Ort opmaken"
+msgstr "Oort opmaken"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:498
@@ -15543,6 +15542,8 @@ msgid ""
 "This is displayed as a tooltip when you point to the launcher icon on the "
 "panel."
 msgstr ""
+"Dat word as Muushülptext wiest, wenn du im Balken up dat Utföhrer-Teken "
+"wiest."
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:851
@@ -17774,7 +17775,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:295
 msgid "Command Line"
-msgstr ""
+msgstr "Oorderrieg"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:298

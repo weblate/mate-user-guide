@@ -1,4 +1,3 @@
-# 
 # Translators:
 # Martin Wimpress <code@flexion.org>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
@@ -6,19 +5,21 @@
 # Yaron Shahrabani <sh.yaron@gmail.com>, 2020
 # shy tzedaka <shaytzedaka123@gmail.com>, 2020
 # 63f334ffc0709ba0fc2361b80bf3c0f0_00ffd1e <ab96c93ca0ac55ba7fa06385427e60dd_878890>, 2021
+# Avi Markovitz <avi.markovitz@gmail.com>, 2024
+# Omer I.S., 2026
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: 63f334ffc0709ba0fc2361b80bf3c0f0_00ffd1e <ab96c93ca0ac55ba7fa06385427e60dd_878890>, 2021\n"
+"Last-Translator: Omer I.S., 2026\n"
 "Language-Team: Hebrew (https://app.transifex.com/mate/teams/13566/he/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: he\n"
-"Plural-Forms: nplurals=3; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+"Plural-Forms: nplurals=3; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: 2;\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
@@ -3237,7 +3238,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:996
 msgid "Screensaver"
-msgstr "שומר מסך"
+msgstr "שומר מרקע"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:997
@@ -6127,7 +6128,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:61
 msgid "Open special locations on your computer"
-msgstr ""
+msgstr "פתיחת מיקומים מיוחדים במחשב"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:62
@@ -9590,7 +9591,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2094
 msgid "MIME Type"
-msgstr "סוג MIME"
+msgstr "סוג קובץ"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:2097
@@ -16942,7 +16943,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gosstartsession.xml:47
 msgid "Logging in to MATE"
-msgstr ""
+msgstr "התחברות למאטה"
 
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:48
@@ -18700,7 +18701,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/gostools.xml:958
 msgid "MATE Documentation Utilites"
-msgstr ""
+msgstr "תוכניות שרות למסמכים של מאטה"
 
 #. (itstool) path: section/para
 #: C/gostools.xml:959

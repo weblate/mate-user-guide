@@ -1,4 +1,3 @@
-# 
 # Translators:
 # ᴄʜʀɪsᴛᴏᴘʜᴇʀ ᴍᴇɴɢ, 2018
 # gtrslower, 2018
@@ -7,7 +6,7 @@
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # shuyu liu <liushuyu011@gmail.com>, 2018
 # biqiu-ssw <shenshuaiwen@gmail.com>, 2018
-# Wolfgang Ulbrich <mate@raveit.de>, 2018
+# Wolfgang Ulbrich <raveit65.sun@gmail.com>, 2018
 # Mingcong Bai <jeffbai@aosc.xyz>, 2019
 # deepiner, 2019
 # zhineng404 <zhinengge@gmail.com>, 2019
@@ -15,16 +14,16 @@
 # 玉堂白鹤 <yjwork@qq.com>, 2020
 # 敏超 马 <mcjoys@163.com>, 2020
 # a73a47e368cc011d8f94528bd9d5d3f1_91fccdf <1b07f49e2a323989c85dd26d526f7bb9_871526>, 2020
-# OkayPJ <1535253694@qq.com>, 2021
 # dundun yao, 2022
 # Dasferco, 2022
+# OkayPJ <okaypjkk@outlook.com>, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Dasferco, 2022\n"
+"Last-Translator: OkayPJ <okaypjkk@outlook.com>, 2025\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/mate/teams/13566/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2115,8 +2114,8 @@ msgid ""
 "locking your screen (see <xref linkend=\"lock-screen\"/>), opening the panel"
 " menubar (see <xref linkend=\"menubar\"/>), or launching a web browser."
 msgstr ""
-"这些是整个桌面的常规快捷方式，例如注销，锁定屏幕(请参阅<xref linkend=\"lock-screen\"/>), "
-"打开面板菜单栏(请参阅<xref linkend=\"menubar\"/>), 或启动网络浏览器."
+"这些是整个桌面的常规快捷方式，例如注销，锁定屏幕（见 <xref linkend=\"lock-screen\"/>），打开面板菜单栏（见 <xref "
+"linkend=\"menubar\"/>），或启动网络浏览器。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:134
@@ -2214,6 +2213,10 @@ msgid ""
 "<application>Opera</application>...) to launch when you click on a link in "
 "other applications such as email clients or document viewers."
 msgstr ""
+"使用 <application>首选应用程序</application> 设置工具来指定 MATE "
+"桌面在启动应用时使用的应用程序。比如，您可以指定在其他应用（像邮件或文档）中点击链接时要启动的网络浏览器如 "
+"<application>Epiphany</application>、<application>Mozilla "
+"Firefox</application>、<application>Opera</application> 等"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:173
@@ -2234,7 +2237,7 @@ msgstr "您可以在 <application>首选应用程序</application> 选项工具�
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:178
 msgid "<guilabel>Internet</guilabel> (Web Browser, Mail Reader)"
-msgstr "<guilabel>互联网</guilabel>（互联网浏览器，邮件阅读器）"
+msgstr "<guilabel>互联网</guilabel>（网络浏览器，邮件阅读器）"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:183
@@ -5170,7 +5173,7 @@ msgstr "拖动滑块，指定您在移动鼠标时，屏幕上指针的移动的
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2089
 msgid "<guilabel>Sensitivity</guilabel>"
-msgstr ""
+msgstr "<guilabel>敏感度</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2094
@@ -5182,7 +5185,7 @@ msgstr "拖动滑块，指定您在移动鼠标时，屏幕上指针跟随移动
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2100
 msgid "<guilabel>Threshold</guilabel>"
-msgstr ""
+msgstr "<guilabel>阈值</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2105
@@ -5297,7 +5300,7 @@ msgstr "指针移动选项"
 msgid ""
 "<guilabel>Trigger secondary click by holding down the primary "
 "button</guilabel>"
-msgstr ""
+msgstr "<guilabel>按住鼠标主键不放时触发次击</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2202
@@ -5323,7 +5326,7 @@ msgstr "使用滑块指定按住主要按钮多长时间，才能模拟次要按
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2217
 msgid "<guilabel>Initiate click when stopping pointer movement</guilabel>"
-msgstr ""
+msgstr "<guilabel>指针停止运动时执行点击</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2222
@@ -5427,7 +5430,7 @@ msgstr "择触发双击的方向。"
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2305
 msgid "<guilabel>Drag click</guilabel>"
-msgstr ""
+msgstr "<guilabel>拖动</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2310
@@ -5798,7 +5801,7 @@ msgstr "<guilabel>静音</guilabel> 复选框允许暂时关闭所有输入，�
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2555
 msgid "<guilabel>Input level</guilabel>"
-msgstr ""
+msgstr "<guilabel>输入音量级别</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2560
@@ -15170,9 +15173,9 @@ msgid ""
 "<application>Help Browser</application>. Click on any launcher icon to open "
 "the corresponding application."
 msgstr ""
-"图标的多少依赖于您的 MATE 发行版，但通常您至少会看到一个<application>Web 浏览器</application> "
-"启动器，一个<application>Email 客户端</application>，和一个 <application>帮助</application>"
-" 按钮。点击任何一个都可以启动相应的程序。"
+"图标的多少依赖于您的 MATE 发行版，但通常您至少会看到一个 <application>网络浏览器</application> 启动器，一个 "
+"<application>邮件客户端</application>，和一个 <application>帮助</application> "
+"按钮。点击任何一个都可以启动相应的程序。"
 
 #. (itstool) path: varlistentry/term
 #: C/gospanel.xml:60
@@ -16249,7 +16252,7 @@ msgstr "打开文件夹。"
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:714
 msgid "Open a Web browser at a particular page on the Web."
-msgstr "在网页浏览器中打开特定的页面。"
+msgstr "在网络浏览器中打开特定的页面。"
 
 #. (itstool) path: para/indexterm
 #: C/gospanel.xml:719

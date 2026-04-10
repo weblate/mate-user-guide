@@ -1,4 +1,3 @@
-# 
 # Translators:
 # Yuki Shira <shirayuking@gmail.com>, 2018
 # shinmili <rmsk.pl.ur.lpt@gmail.com>, 2018
@@ -11,15 +10,15 @@
 # c7a0a66e0476db158663636124cfb54f_370a183, 2019
 # Rockers <sumorock@hotmail.com>, 2019
 # d6170a00d05f3d9fb2ee36b64ce8db85_b78b25d, 2019
-# Wolfgang Ulbrich <mate@raveit.de>, 2023
-# Green <usergreen@users.osdn.me>, 2024
+# Wolfgang Ulbrich <raveit65.sun@gmail.com>, 2023
+# green <usergreen@users.osdn.me>, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Green <usergreen@users.osdn.me>, 2024\n"
+"Last-Translator: green <usergreen@users.osdn.me>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/mate/teams/13566/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,7 +40,7 @@ msgstr ""
 "やまね ひでき \n"
 "草野 貴之 \n"
 "松澤 二郎 \n"
-"Green, alias usergreen\n"
+"Green, aka usergreen <usergreen@users.osdn.me>\n"
 "日本GNOMEユーザー会 http://www.gnome.gr.jp/\n"
 "MATE 文書化チーム https://www.transifex.com/mate/ "
 
@@ -2466,7 +2465,7 @@ msgid ""
 "setting from the <guilabel>Controls</guilabel> tabbed section in the "
 "<guilabel>Customize Theme</guilabel> window."
 msgstr ""
-"<_:indexterm-1/><_:indexterm-2/>テーマのコントロール設定は、ウィンドウ、パネル、アプレットの外観を決定します。コントロールの設定は、ウィンドウやパネル、アプレットに表示されるMATE準拠のインターフェースアイテム（メニュー、アイコン、ボタンなど）の外観も決定します。利用可能なコントロール設定のオプションには、特別なアクセシビリティニーズに対応したものがあります。コントロール設定のオプションは、<guilabel>テーマのカスタマイズ</guilabel>ウィンドウの中の<guilabel>コントロール</guilabel>タブ付きセクションから選択できます。"
+"<_:indexterm-1/><_:indexterm-2/>テーマのコントロール設定は、ウィンドウ、パネル、アプレットの外観を決定します。コントロールの設定は、ウィンドウやパネル、アプレットに表示されるMATE準拠のインタフェースアイテム（メニュー、アイコン、ボタンなど）の外観も決定します。利用可能なコントロール設定のオプションには、特別なアクセシビリティニーズに対応したものがあります。コントロール設定のオプションは、<guilabel>テーマのカスタマイズ</guilabel>ウィンドウの中の<guilabel>コントロール</guilabel>タブ付きセクションから選択できます。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:276
@@ -2879,7 +2878,7 @@ msgid ""
 "To specify how to display the image, select one of the following options "
 "from the <guilabel>Style</guilabel> drop-down list:"
 msgstr ""
-"画像の表示方法を指定する場合に、<guilabel>スタイル</guilabel>のドロップダウン式のリストから次に示すいずれかのオプションを選択する:"
+"画像の表示方法を指定する場合に、<guilabel>スタイル</guilabel>のドロップダウンリストから次に示すいずれかのオプションを選択する:"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:526
@@ -2946,7 +2945,7 @@ msgid ""
 "available wallpapers; however, it does not delete the image from your "
 "computer."
 msgstr ""
-"削除したい画像を選び、<guilabel>削除</guilabel>をクリックします。この操作によって、利用可能な壁紙の一覧からその画像が削除されます。ただし、パソコンからその画像が削除されるわけではありません。"
+"削除したい画像を選び、<guilabel>削除</guilabel>をクリックします。この操作によって、利用可能な壁紙の一覧からその画像が削除されます。ただし、コンピュータからその画像が削除されるわけではありません。"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:574
@@ -2972,7 +2971,7 @@ msgid ""
 "Style</guilabel> drop-down list to specify a single color for the desktop "
 "background."
 msgstr ""
-"<guilabel>背景色</guilabel>のドロップダウン式リストから<guilabel>単色</guilabel>を選択して、デスクトップの背景に適用する色を一つ指定する"
+"<guilabel>背景色</guilabel>のドロップダウンリストから<guilabel>単色</guilabel>を選択して、デスクトップの背景に適用する色を一つ指定する"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:588
@@ -2991,7 +2990,7 @@ msgid ""
 "<guilabel>Background Style</guilabel> drop-down list. This option creates a "
 "gradient effect from the left screen edge to the right screen edge."
 msgstr ""
-"<guilabel>背景色</guilabel>のドロップダウン式リストから<guilabel>横方向にグラデーション</guilabel>を選択して、壁紙に画面の左から右へグラデーションを適用する"
+"<guilabel>背景色</guilabel>のドロップダウンリストから<guilabel>横方向にグラデーション</guilabel>を選択して、壁紙に画面の左から右へグラデーションを適用する"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:594
@@ -3017,7 +3016,7 @@ msgid ""
 "Style</guilabel> drop-down list. This creates a gradient effect from the top"
 " screen edge to the bottom screen edge."
 msgstr ""
-"<guilabel>背景色</guilabel>のドロップダウン式リストから<guilabel>縦方向にグラデーション</guilabel>を選択して、壁紙に画面の上から下へグラデーションを適用する"
+"<guilabel>背景色</guilabel>のドロップダウンリストから<guilabel>縦方向にグラデーション</guilabel>を選択して、壁紙に画面の上から下へグラデーションを適用する"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:602
@@ -3296,7 +3295,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:800
 msgid "Interface Preferences"
-msgstr "インターフェースの設定"
+msgstr "インタフェースの設定"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:803
@@ -3325,7 +3324,7 @@ msgid ""
 "appearance of menus, menubars, and toolbars for applications that are part "
 "of MATE."
 msgstr ""
-"<application>外観</application>設定ツールの<guilabel>インターフェース</guilabel>タブの項目で、MATE "
+"<application>外観</application>設定ツールの<guilabel>インタフェース</guilabel>タブの項目で、MATE "
 "の一部であるアプリケーションのメニュー、メニューバー、ツールバーの外観をカスタマイズできます。"
 
 #. (itstool) path: section/para
@@ -3592,12 +3591,12 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:986
 msgid "Screensaver Preferences"
-msgstr "スクリーンセーバーを設定する"
+msgstr "スクリーンセーバを設定する"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:987
 msgid "<primary>preference tools</primary> <secondary>screensaver</secondary>"
-msgstr "<primary>設定ツール</primary> <secondary>スクリーンセーバー</secondary>"
+msgstr "<primary>設定ツール</primary> <secondary>スクリーンセーバ</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:991
@@ -3608,7 +3607,7 @@ msgid ""
 " time. To stop the screensaver and return to the desktop, move the mouse or "
 "press a key on the keyboard."
 msgstr ""
-"<firstterm>スクリーンセーバー</firstterm>はお使いのコンピュータが使用されていない時に画面上で画像を動かしながら表示します。さらにスクリーンセーバーは、古い型式のモニタで同じ画像が長い時間表示されていることによる焼き付けなどの問題を起こさないようにするために利用されます。スクリーンセーバーを停止してデスクトップに復帰する場合は、マウスを動かすか何かキーを押下してください。"
+"<firstterm>スクリーンセーバ</firstterm>はお使いのコンピュータが使用されていない時に画面上で画像を動かしながら表示します。さらにスクリーンセーバは、古い型式のモニタで同じ画像が長い時間表示されていることによる焼き付けなどの問題を起こさないようにするために利用されます。スクリーンセーバを停止してデスクトップに復帰する場合は、マウスを動かすか何かキーを押下してください。"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:992
@@ -3617,7 +3616,7 @@ msgid ""
 "type of screensaver, the time before the screensaver starts, and whether to "
 "require a password to return to the desktop."
 msgstr ""
-"<application>スクリーンセーバー</application>の設定ツールを使って、実行するスクリーンセーバーの種類やスクリーンセーバーが起動するまでの時間、デスクトップに復帰する際にパスワードが必要かどうかを指定することができるようになっています。"
+"<application>スクリーンセーバ</application>の設定ツールを使って、実行するスクリーンセーバの種類やスクリーンセーバが起動するまでの時間、デスクトップに復帰する際にパスワードが必要かどうかを指定することができるようになっています。"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:993
@@ -3627,7 +3626,7 @@ msgstr "変更が可能な設定は次のとおりです:"
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:996
 msgid "Screensaver"
-msgstr "スクリーンセーバーのテーマ"
+msgstr "スクリーンセーバのテーマ"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:997
@@ -3638,7 +3637,7 @@ msgid ""
 "screen. During preview, use the arrow buttons at the top of the screen to go"
 " through the list of screensaver themes."
 msgstr ""
-"一覧から実行する<guilabel>スクリーンセーバーのテーマ</guilabel>を選択します。選択したテーマの縮小版がその横に表示されます。<guibutton>プレビュー</guibutton>・ボタンをクリックすると、選択したテーマが画面全体に表示されます。プレビューの最中は画面の上部にある矢印ボタンを利用して、スクリーンセーバーのテーマを切り換えることができます。"
+"一覧から実行する<guilabel>スクリーンセーバのテーマ</guilabel>を選択します。選択したテーマの縮小版がその横に表示されます。<guibutton>プレビュー</guibutton>・ボタンをクリックすると、選択したテーマが画面全体に表示されます。プレビューの最中は画面の上部にある矢印ボタンを利用して、スクリーンセーバのテーマを切り換えることができます。"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:999
@@ -3659,7 +3658,7 @@ msgstr "<guilabel>ランダム</guilabel>というテーマは一覧にあるテ
 msgid ""
 "Which screensavers are shown in the remainder of the list depends on your "
 "distributor or vendor."
-msgstr "一覧に表示されるスクリーンセーバーのテーマはお使いのディストリビューションによって異なります。"
+msgstr "一覧に表示されるスクリーンセーバのテーマはお使いのディストリビューションによって異なります。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1005
@@ -3675,25 +3674,25 @@ msgid ""
 "(chat applications may set your status as \"away\"). Use the slider to set "
 "the length of time in minutes or hours."
 msgstr ""
-"お使いのコンピュータに何も入力せず（例えばマウスを動かすとか、キーを押下するとかしないで）ここで指定した時間経過すると、待機状態（アイドル状態）になります。これは、電源管理の機能（例えば、モニタの電源がオフになるなど）や、インスタント・メッセンジャーの機能"
+"お使いのコンピュータに何も入力せず（例えばマウスを動かすとか、キーを押下するとかしないで）ここで指定した時間経過すると、待機状態（アイドル状態）になります。これは、電源管理の機能（例えば、モニタの電源がオフになるなど）や、インスタント・メッセンジャの機能"
 " （自動的に「離席中」の状態にするなど）に影響する場合があります。スライダを使って、分または時単位で待機状態になるまでの時間の長さを指定してください。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1009
 msgid "Activate screensaver when computer is idle"
-msgstr "アイドル状態になったらスクリーンセーバーを起動する"
+msgstr "アイドル状態になったらスクリーンセーバを起動する"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1010
 msgid ""
 "Select this option to have the screensaver start after the set length of "
 "time."
-msgstr "アイドル状態になったら自動的にスクリーンセーバーを起動する際に選択します。"
+msgstr "このオプションを選択すると、設定した時間後にスクリーンセーバを開始します。"
 
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1013
 msgid "Lock screen when screensaver is active"
-msgstr "スクリーンセーバーを起動したら画面をロックする"
+msgstr "スクリーンセーバを起動したら画面をロックする"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1014
@@ -3702,7 +3701,7 @@ msgid ""
 "password when you try to return to the desktop. For more on locking your "
 "screen, see <xref linkend=\"lock-screen\"/>."
 msgstr ""
-"これを選択すると、スクリーンセーバーからデスクトップに復帰する際にパスワードの問い合わせが発生します。画面のロックに関して詳細は「<xref "
+"これを選択すると、スクリーンセーバからデスクトップに復帰する際にパスワードの問い合わせが発生します。画面のロックに関して詳細は「<xref "
 "linkend=\"lock-screen\"/>」をご覧ください。"
 
 #. (itstool) path: info/title
@@ -6571,7 +6570,7 @@ msgid ""
 "and requires your password to return to the desktop. For more on this, see "
 "<xref linkend=\"lock-screen\"/>."
 msgstr ""
-"<guimenuitem>画面のロック</guimenuitem>というメニュー項目はスクリーンセーバーを起動し、パスワードを入力するとデスクトップに戻ります。詳細は「<xref"
+"<guimenuitem>画面のロック</guimenuitem>というメニュー項目はスクリーンセーバを起動し、パスワードを入力するとデスクトップに戻ります。詳細は「<xref"
 " linkend=\"lock-screen\"/>」を参照してください。"
 
 #. (itstool) path: listitem/para
@@ -6763,8 +6762,8 @@ msgid ""
 " access to the users Home Folder, Trash, and also removable media such as "
 "floppy disks, CDs and USB flash drives."
 msgstr ""
-"すべてのユーザは自分専用のホーム・フォルダを所有しています。ホーム・フォルダにはユーザのファイルがすべて格納されています。デスクトップはもう１つの別フォルダであり、このデスクトップには、ホーム・フォルダやゴミ箱、フロッピー・ディスクや"
-" CD・USB フラッシュドライブ等のリムーバブル・メディアにアクセスするための特別なアイコンなどが含まれています。"
+"すべてのユーザは自分専用のホームフォルダを所有しています。ホームフォルダにはユーザのファイルがすべて格納されています。デスクトップはもう１つの別フォルダであり、このデスクトップには、ホームフォルダやゴミ箱、フロッピーディスクや"
+" CD・USB フラッシュドライブ等のリムーバブルメディアにアクセスするための特別なアイコンなどが含まれています。"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:70
@@ -7263,7 +7262,7 @@ msgstr "親フォルダのセレクタ"
 msgid ""
 "This drop-down list shows the hierarchy of the folder. Choose a folder from "
 "the list to open it."
-msgstr "このドロップダウン式のリストにはフォルダが階層構造で表示されるので、開きたいフォルダを一覧から選択する"
+msgstr "このドロップダウンリストにはフォルダが階層構造で表示されるので、開きたいフォルダを一覧から選択する"
 
 #. (itstool) path: tip/para
 #: C/goscaja.xml:268
@@ -7277,7 +7276,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:276
 msgid "Displaying Your Home Folder in a Spatial Window"
-msgstr "ホーム・フォルダを場所モードのウィンドウで表示する"
+msgstr "ホームフォルダを場所モードのウィンドウで表示する"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:277 C/goscaja.xml:663
@@ -7295,7 +7294,7 @@ msgstr "<primary>ホームの場所</primary> <secondary>表示</secondary>"
 #. (itstool) path: section/para
 #: C/goscaja.xml:286
 msgid "To display your Home Folder, perform one of the following actions:"
-msgstr "ホーム・フォルダを表示する場合は、次に示すいずれかの操作に従います:"
+msgstr "ホームフォルダを表示する場合は、次に示すいずれかの操作に従います:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:290
@@ -7309,7 +7308,7 @@ msgid ""
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Home "
 "Folder</guimenuitem></menuchoice>."
 msgstr ""
-"フォルダ・ウィンドウのメニュー・バーから、<menuchoice><guimenu>場所</guimenu><guimenuitem>ホーム・フォルダ</guimenuitem></menuchoice>を選択してください。"
+"フォルダウィンドウのメニューバーから、<menuchoice><guimenu>場所</guimenu><guimenuitem>ホームフォルダ</guimenuitem></menuchoice>を選択してください。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:296
@@ -7318,12 +7317,12 @@ msgid ""
 "<menuchoice><guimenu>Places</guimenu><guimenuitem>Home "
 "Folder</guimenuitem></menuchoice>."
 msgstr ""
-"トップ・パネルのメニュー・バーから<menuchoice><guimenu>場所</guimenu><guimenuitem>ホーム・フォルダ</guimenuitem></menuchoice>を選択してください。"
+"トップパネルのメニューバーから<menuchoice><guimenu>場所</guimenu><guimenuitem>ホームフォルダ</guimenuitem></menuchoice>を選択してください。"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:298
 msgid "The spatial window displays the contents of your Home Folder."
-msgstr "すると、場所モードのウィンドウに自分のホーム・フォルダの内容が表示されます。"
+msgstr "すると、場所モードのウィンドウに自分のホームフォルダの内容が表示されます。"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:301 C/goscaja.xml:719
@@ -7561,7 +7560,7 @@ msgid ""
 "adjacent drop down list also contains a list of the most recently visited "
 "locations to allow you to return to them faster."
 msgstr ""
-"<guibutton>戻る</guibutton>は一つ前に訪れていた場所へ戻ります。ボタンの横にあるドロップダウン式のリストにも、最近訪れた場所の履歴があります。"
+"<guibutton>戻る</guibutton>は一つ前に訪れていた場所へ戻ります。ボタンの横にあるドロップダウンリストにも、最近訪れた場所の履歴があります。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:425
@@ -7588,7 +7587,7 @@ msgstr "<guibutton>再読み込み</guibutton>は現在のフォルダの内容�
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:434
 msgid "<guibutton>Home</guibutton> Opens your Home Folder."
-msgstr "<guibutton>ホーム</guibutton>はユーザのホーム・フォルダを開きます。"
+msgstr "<guibutton>ホーム</guibutton>はユーザのホームフォルダを開きます。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:437
@@ -7661,7 +7660,7 @@ msgid ""
 "from the following options:"
 msgstr ""
 "サイドペインを表示するには<menuchoice><guimenu>表示</guimenu><guimenuitem>サイドペイン</guimenuitem></menuchoice>を選択する;"
-" サイドペインの上部にドロップダウン式のリストがあり、次の示すアイテムを選択することで、サイドペインで何を表示するかを決定します:"
+" サイドペインの上部にドロップダウンリストがあり、次の示すアイテムを選択することで、サイドペインで何を表示するかを決定します:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:483
@@ -8004,7 +8003,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:658
 msgid "Displaying Your Home Folder"
-msgstr "ホーム・フォルダの表示"
+msgstr "ホームフォルダの表示"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:659
@@ -8016,7 +8015,7 @@ msgstr "<primary>ファイルマネージャ</primary> <secondary>ホーム・�
 msgid ""
 "To quickly display your Home Folder, perform one of the following actions "
 "from a file browser window:"
-msgstr "自分のホーム・フォルダに素早く移動したいのであれば、ファイル・ブラウザのウィンドウから次に示す操作のいずれかを実行してください:"
+msgstr "自分のホームフォルダに素早く移動したいのであれば、ファイルブラウザのウィンドウから次に示す操作のいずれかを実行してください:"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:676
@@ -8024,7 +8023,7 @@ msgid ""
 "Choose "
 "<menuchoice><guimenu>Go</guimenu><guimenuitem>Home</guimenuitem></menuchoice>."
 msgstr ""
-"<menuchoice><guimenu>移動</guimenu><guimenuitem>ホーム・フォルダ</guimenuitem></menuchoice>を選択します。"
+"<menuchoice><guimenu>移動</guimenu><guimenuitem>ホームフォルダ</guimenuitem></menuchoice>を選択します。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:679
@@ -8041,7 +8040,7 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscaja.xml:685
 msgid "The file browser window displays the contents of your Home Folder."
-msgstr "すると、ファイル・ブラウザのウィンドウに自分のホーム・フォルダの内容が表示されます。"
+msgstr "すると、ファイルブラウザのウィンドウに自分のホームフォルダの内容が表示されます。"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:688
@@ -8166,7 +8165,7 @@ msgid ""
 "<guimenuitem>Tree</guimenuitem> from the drop-down list at the top of the "
 "side pane."
 msgstr ""
-"<guilabel>ツリー</guilabel>表示はサイドペインの中で最も便利な機能の一つです。これはファイルシステムを階層化して表示してくれるので、簡単にファイルシステムを参照したり移動できます。サイドペインで<guilabel>ツリー</guilabel>表示にするには、サイドペインの上部にあるドロップダウン式のリストから<guimenuitem>ツリー</guimenuitem>を選択してください。"
+"<guilabel>ツリー</guilabel>表示はサイドペインの中で最も便利な機能の一つです。これはファイルシステムを階層化して表示してくれるので、簡単にファイルシステムを参照したり移動できます。サイドペインで<guilabel>ツリー</guilabel>表示にするには、サイドペインの上部にあるドロップダウンリストから<guimenuitem>ツリー</guimenuitem>を選択してください。"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:745
@@ -8204,7 +8203,7 @@ msgstr "<guilabel>ツリー</guilabel>を開く"
 msgid ""
 "Choose <guilabel>Tree</guilabel> from the drop-down list at the top of the "
 "side pane."
-msgstr "サイドペインの上部にあるドロップダウン式のリストから<guilabel>ツリー</guilabel>を選択します。"
+msgstr "サイドペインの上部にあるドロップダウンリストから<guilabel>ツリー</guilabel>を選択します。"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:775
@@ -8215,7 +8214,7 @@ msgstr "<guilabel>ツリー</guilabel>を閉じる"
 #: C/goscaja.xml:778
 msgid ""
 "Choose another item from the drop-down list at the top of the side pane."
-msgstr "サイドペインの上部にあるドロップダウン式のリストから、他のアイテムを選択する"
+msgstr "サイドペインの上部にあるドロップダウンリストから、他のアイテムを選択する"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:784
@@ -8373,7 +8372,7 @@ msgid ""
 "pane. The <guilabel>History</guilabel> list in the side pane displays a list"
 " of your previously-viewed items."
 msgstr ""
-"サイドペインに<guilabel>履歴</guilabel>の一覧を表示するには、サイドペインの上部にあるドロップダウン式のリストから<guilabel>履歴</guilabel>を選択してください。サイドペインの<guilabel>履歴</guilabel>には以前表示したアイテムが一覧表示されます。"
+"サイドペインに<guilabel>履歴</guilabel>の一覧を表示するには、サイドペインの上部にあるドロップダウンリストから<guilabel>履歴</guilabel>を選択してください。サイドペインの<guilabel>履歴</guilabel>には以前表示したアイテムが一覧表示されます。"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:869
@@ -8664,9 +8663,9 @@ msgid ""
 "icon. <xref linkend=\"goscaja-FIG-927\"/> shows a search which has been "
 "restricted to the users home directory and to only search for text files."
 msgstr ""
-"この検索結果に不満がある場合は、さらに条件を追加して検索の精度を上げることができます。このようにすると、特定の種類のファイルや特定の場所にあるファイルだけを検索するように検索範囲を制限することができます。検索条件を追加するには、ビュー・ペインの右端にある"
+"この検索結果に不満がある場合は、さらに条件を追加して検索の精度を上げることができます。このようにすると、特定の種類のファイルや特定の場所にあるファイルだけを検索するように検索範囲を制限することができます。検索条件を追加するには、ビューペインの右端にある"
 " <guibutton>+</guibutton> アイコンをクリックしてください。<xref linkend=\"goscaja-"
-"FIG-927\"/> では、ユーザのホーム・フォルダで、かつテキスト・ファイルのみを検索するといった条件で検索範囲を制限しているところです。"
+"FIG-927\"/> では、ユーザのホームフォルダで、かつテキストファイルのみを検索するといった条件で検索範囲を制限しているところです。"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1006
@@ -8916,8 +8915,8 @@ msgid ""
 "<filename>/root</filename> - <emphasis>root</emphasis> user home directory, "
 "pronounced 'slash-root'"
 msgstr ""
-"<filename>/root</filename> - <emphasis>root</emphasis> "
-"というユーザのホーム・フォルダに相当する場所 ('slash-root' あるいは「スラッシュ・ルート」と発音)"
+"<filename>/root</filename> - <emphasis>root</emphasis> というユーザのホームフォルダに相当する場所"
+" ('slash-root' あるいは「スラッシュ・ルート」と発音)"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:1108
@@ -9019,7 +9018,7 @@ msgstr "アイコン表示"
 #. (itstool) path: info/title
 #: C/goscaja.xml:1149
 msgid "The Home Folder displayed in an icon view"
-msgstr "アイコン・ビューで表示したホーム・フォルダ"
+msgstr "アイコンビューで表示したホームフォルダ"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9062,7 +9061,7 @@ msgstr "リスト表示"
 #. (itstool) path: info/title
 #: C/goscaja.xml:1165
 msgid "The Home Folder displayed in a list view"
-msgstr "一覧形式で表示されたホーム・フォルダ"
+msgstr "一覧形式で表示されたホームフォルダ"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9106,7 +9105,7 @@ msgid ""
 "size of the items in the view pane. The following sections describe how to "
 "work with icon view and list view."
 msgstr ""
-"<guilabel>表示</guilabel>メニューまたは表示方法を選択する<guilabel>ドロップダウン式のリスト</guilabel>から、アイコンまたは一覧表示を選択してください。表示ペインでは、フォルダに格納されたアイテムを並び替えたり、アイテムの大きさを変更することができるようになっています。次の節ではアイコン表示や一覧表示を使った作業についてそれぞれ説明します。"
+"<guilabel>表示</guilabel>メニューまたは表示方法を選択する<guilabel>ドロップダウンリスト</guilabel>から、アイコンまたは一覧表示を選択してください。表示ペインでは、フォルダに格納されたアイテムを並び替えたり、アイテムの大きさを変更することができるようになっています。次の節ではアイコン表示や一覧表示を使った作業についてそれぞれ説明します。"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1182
@@ -11014,7 +11013,7 @@ msgid ""
 "<menuchoice><guimenu>View</guimenu><guimenuitem>Side "
 "Pane</guimenuitem></menuchoice>."
 msgstr ""
-"サイドペインの上部にあるドロップダウン式のリストから<guilabel>メモ</guilabel>を選択してください。サイドペインを表示するには、<menuchoice><guimenu>表示</guimenu><guimenuitem>サイドペイン</guimenuitem></menuchoice>を選択してください。"
+"サイドペインの上部にあるドロップダウンリストから<guilabel>メモ</guilabel>を選択してください。サイドペインを表示するには、<menuchoice><guimenu>表示</guimenu><guimenuitem>サイドペイン</guimenuitem></menuchoice>を選択してください。"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2327
@@ -11376,7 +11375,7 @@ msgid ""
 "display:"
 msgstr ""
 "既定では、<application>Caja</application> "
-"はフォルダの中にあるシステムファイルやバックアップ・ファイルを表示しません。これは、誤ってファイルを変更したり削除したりして、コンピュータの操作に悪い影響を与えないようにするためです。また、ホーム・フォルダのような場所でファイルが散らかるのを防ぐためです。Caja"
+"はフォルダの中にあるシステムファイルやバックアップファイルを表示しません。これは、誤ってファイルを変更したり削除したりして、コンピュータの操作に悪い影響を与えないようにするためです。また、ホームフォルダのような場所でファイルが散らかるのを防ぐためです。Caja"
 " では次のようなアイテムを表示しません："
 
 #. (itstool) path: listitem/para
@@ -13294,7 +13293,7 @@ msgid ""
 "down list, select the second item from the second drop-down list, and so on."
 " The following table describes the items of information that you can select:"
 msgstr ""
-"アイコンの見出しに表示したい情報をドロップダウン式のリストからそれぞれ選択してください。一つ目のリストから先頭に表示する情報を選択し、二つ目のリストから二番目に表示する情報を選択するといった感じで順に指定していきます。次の表は、ここで選択できる情報について説明ししたものです:"
+"アイコンの見出しに表示したい情報をドロップダウンリストからそれぞれ選択してください。一つ目のリストから先頭に表示する情報を選択し、二つ目のリストから二番目に表示する情報を選択するといった感じで順に指定していきます。次の表は、ここで選択できる情報について説明ししたものです:"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3585 C/goscaja.xml:3725
@@ -13605,7 +13604,7 @@ msgid ""
 " manager stores the thumbnail files for each folder in a "
 "<filename>.thumbnails</filename> directory in the user's Home Folder."
 msgstr ""
-"画像ファイルを表示する際に選択します。ファイルマネージャは、ユーザのホーム・フォルダにある "
+"画像ファイルを表示する際に選択します。ファイルマネージャは、ユーザのホームフォルダにある "
 "<filename>.thumbnails</filename> ディレクトリの中の各フォルダに、サムネイルのキャッシュを格納しています。"
 
 #. (itstool) path: entry/para
@@ -14309,7 +14308,7 @@ msgid ""
 "difference is that anything placed into the Desktop folder will then show up"
 " on desktop itself."
 msgstr ""
-"デスクトップの上に配置したファイルやフォルダはホーム・フォルダの<filename>デスクトップ</filename>と呼ばれる特別なフォルダの中に格納されます。他のフォルダと同様に、このデスクトップ・フォルダにファイルや他のフォルダを格納することができます。唯一の違いは、デスクトップ・フォルダに格納されたものは何でもデスクトップ自体に表示されることです。"
+"デスクトップの上に配置したファイルやフォルダはホームフォルダの<filename>デスクトップ</filename>と呼ばれる特別なフォルダの中に格納されます。他のフォルダと同様に、このデスクトップフォルダにファイルや他のフォルダを格納することができます。唯一の違いは、デスクトップフォルダに格納されたものは何でもデスクトップ自体に表示されることです。"
 
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:143
@@ -15317,7 +15316,7 @@ msgid ""
 "places on your network, and your bookmarks (see <xref linkend=\"caja-"
 "bookmarks\"/> for more on bookmarks)."
 msgstr ""
-"左側のペインにある項目を開いてください。このペインには、文書フォルダ、ホーム・フォルダ、CD "
+"左側のペインにある項目を開いてください。このペインには、文書フォルダ、ホームフォルダ、CD "
 "やフラッシュドライブのようなリムーバブルメディア、ネットワーク上の場所およびブックマークといった一覧が表示されています（詳しくは<xref "
 "linkend=\"caja-bookmarks\"/>を見てください）。"
 
@@ -15430,7 +15429,7 @@ msgid ""
 "typing. Use <keycap>down arrow</keycap> and <keycap>up arrow</keycap> and "
 "<keycap>Return</keycap> to choose from the list."
 msgstr ""
-"文字を入力していくと、以前入力したファイルやフォルダの名前がドロップダウン式のリストに表示されます。<keycap>下向きの矢印キー</keycap>と<keycap>上向きの矢印キー</keycap>を使ってカーソルを移動し、<keycap>Return</keycap>"
+"文字を入力していくと、以前入力したファイルやフォルダの名前がドロップダウンリストに表示されます。<keycap>下向きの矢印キー</keycap>と<keycap>上向きの矢印キー</keycap>を使ってカーソルを移動し、<keycap>Return</keycap>"
 " キーで選択してください。"
 
 #. (itstool) path: listitem/para
@@ -15538,7 +15537,7 @@ msgstr ""
 msgid ""
 "You can enter a filename and choose a location to save in from the drop-down"
 " list of bookmarks and commonly-used locations."
-msgstr "ブックマークやよく利用する場所のドロップダウン式のリストから、保存するファイル名と保存先を入力することもできます。"
+msgstr "ブックマークやよく利用する場所のドロップダウンリストから、保存するファイル名と保存先を入力することもできます。"
 
 #. (itstool) path: info/title
 #: C/gosoverview.xml:526
@@ -15553,7 +15552,7 @@ msgid ""
 "file browser similar to the one in the <guilabel>Open File</guilabel> "
 "dialog."
 msgstr ""
-"ドロップダウン式のリストにはない場所にファイルを保存するような場合、<guilabel>他のフォルダ</guilabel>のラベルをクリックしてください。すると、<guilabel>ファイルを開く</guilabel>ダイアログに表示されていたものと似たファイル・ブラウザが表示されます。"
+"ドロップダウンリストにはない場所にファイルを保存するような場合、<guilabel>他のフォルダ</guilabel>のラベルをクリックしてください。すると、<guilabel>ファイルを開く</guilabel>ダイアログに表示されていたものと似たファイル・ブラウザが表示されます。"
 
 #. (itstool) path: tip/para
 #: C/gosoverview.xml:528

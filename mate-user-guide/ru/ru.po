@@ -1,4 +1,3 @@
-# 
 # Translators:
 # Михаил Ильинский (milinsky) <mail@milinsky.com>, 2018
 # XRevan86, 2018
@@ -10,7 +9,7 @@
 # Oldboy Boyold <boyoldboyold@gmail.com>, 2018
 # Alex Puts, 2018
 # monsta <monsta@inbox.ru>, 2019
-# Wolfgang Ulbrich <mate@raveit.de>, 2019
+# Wolfgang Ulbrich <raveit65.sun@gmail.com>, 2019
 # Aleksey Kabanov <ak099@mail.ru>, 2020
 # Cyber Tailor <cyber@sysrq.in>, 2020
 # Sergej A. <Ser82-png@yandex.ru>, 2022

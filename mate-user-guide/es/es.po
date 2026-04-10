@@ -1,4 +1,3 @@
-# 
 # Translators:
 # Lluís Tusquellas <lutusq@gmail.com>, 2018
 # Andres Sanchez <blackatze93@gmail.com>, 2018
@@ -11,19 +10,20 @@
 # David García-Abad <dgarciabad@gmail.com>, 2018
 # Isabel Ortuño <isabel.ortuno1@gmail.com>, 2018
 # Joel Barrios <darkshram@gmail.com>, 2018
-# Adolfo Jayme-Barrientos, 2019
+# Adolfo Jayme Barrientos, 2019
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019
 # seacat <seacat.linux@gmail.com>, 2021
 # Toni Estévez <toni.estevez@gmail.com>, 2021
-# Wolfgang Ulbrich <mate@raveit.de>, 2023
+# Wolfgang Ulbrich <raveit65.sun@gmail.com>, 2023
 # Francisco Serrador, 2024
+# Victor Mendoza, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:30+0200\n"
 "PO-Revision-Date: 2018-03-13 21:53+0000\n"
-"Last-Translator: Francisco Serrador, 2024\n"
+"Last-Translator: Victor Mendoza, 2025\n"
 "Language-Team: Spanish (https://app.transifex.com/mate/teams/13566/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1438,11 +1438,13 @@ msgstr "Técnicas del teclado"
 #: C/gosbasic.xml:527
 msgid "<primary>basic skills</primary> <secondary>keyboard skills</secondary>"
 msgstr ""
+"<primary>habilidades básicas</primary> <secondary>habilidades del "
+"teclado</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:531
 msgid "<primary>keyboard</primary> <secondary>basic skills</secondary>"
-msgstr ""
+msgstr "<primary>teclado</primary> <secondary>capacidades básicas</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:536
@@ -1528,7 +1530,7 @@ msgstr "Teclas de atajo globales"
 #. (itstool) path: section/indexterm
 #: C/gosbasic.xml:567
 msgid "<primary>shortcut keys</primary> <secondary>global</secondary>"
-msgstr ""
+msgstr "<primary>teclas enlazadas</primary> <secondary>global</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosbasic.xml:572
@@ -2137,6 +2139,8 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Assistive "
 "Technologies</secondary>"
 msgstr ""
+"<primary>preferencias de herramientas</primary><secondary>Tecnologías "
+"Asistidas</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:47
@@ -2233,7 +2237,7 @@ msgstr "Descripción"
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:80
 msgid "<guilabel>Enable assistive technologies</guilabel>"
-msgstr ""
+msgstr "<guilabel>Activar tecnologías asistidas</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:85
@@ -2451,12 +2455,16 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Preferred "
 "Applications</secondary>"
 msgstr ""
+"<primary>herramientas de preferencias</primary><secondary>Aplicacionnes "
+"Preferidas</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:163
 msgid ""
 "<primary>default applications</primary> <see>preferred applications</see>"
 msgstr ""
+"<primary>aplicaciones predeterminadas</primary><see>aplicaciones "
+"preferidas</see>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:167
@@ -2477,6 +2485,10 @@ msgid ""
 "<menuchoice><guimenu>System</guimenu><guisubmenu>Preferences</guisubmenu><guisubmenu>Personal</guisubmenu><guimenuitem>Preferred"
 " Applications</guimenuitem></menuchoice>."
 msgstr ""
+"<application>Aplicaciones Preferidas</application> pueden ser encontradas "
+"yendo a "
+"<menuchoice><guimenu>Sistema</guimenu><guisubmenu>Preferencias</guisubmenu><guisubmenu>Personal</guisubmenu><guimenuitem>Aplicaciones"
+" Preferidas</guimenuitem></menuchoice>."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:175
@@ -2492,7 +2504,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:178
 msgid "<guilabel>Internet</guilabel> (Web Browser, Mail Reader)"
-msgstr ""
+msgstr "<guilabel>Internet</guilabel> (Navegador Web, Lector de Correo)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:183
@@ -2500,12 +2512,16 @@ msgid ""
 "<guilabel>Multimedia</guilabel> (Image Viewer, Multimedia Player, Video "
 "Player)"
 msgstr ""
+"<guilabel>Multimedio</guilabel>(Visor de imagen, Reproductor multimedia, "
+"Reproductor de vídeo)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:188
 msgid ""
 "<guilabel>System</guilabel> (Text Editor, Terminal Emulator, File Manager)"
 msgstr ""
+"<guilabel>Sistema</guilabel>(Editor de Texto, Emulador de Terminal, Gestor "
+"de Archivo)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:193
@@ -2513,6 +2529,8 @@ msgid ""
 "<guilabel>Office</guilabel> (Document Viewer, Word Processor, Spreadsheet "
 "Editor)"
 msgstr ""
+"<guilabel>Oficina</guilabel> (Visor Documental, Procesador de Palabra, "
+"Editor de Hojas de Cálculo)"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:198
@@ -2533,7 +2551,7 @@ msgstr ""
 #. (itstool) path: formalpara/title
 #: C/goscustdesk.xml:205
 msgid "Run at start (Accessibility only)"
-msgstr ""
+msgstr "Ejecutar al arrancar (Solamente Accesibilidad)"
 
 #. (itstool) path: formalpara/para
 #: C/goscustdesk.xml:205
@@ -2590,6 +2608,8 @@ msgstr "Preferencias del tema"
 msgid ""
 "<primary>themes</primary> <secondary>setting controls options</secondary>"
 msgstr ""
+"<primary>temas</primary> <secondary>opcines de parámetros de "
+"control</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:238
@@ -2597,11 +2617,15 @@ msgid ""
 "<primary>themes</primary> <secondary>setting window frame "
 "options</secondary>"
 msgstr ""
+"<primary>temas</primary> <secondary>parámetros de opciones del marco de "
+"ventana</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:242
 msgid "<primary>themes</primary> <secondary>setting icons options</secondary>"
 msgstr ""
+"<primary>temas</primary> <secondary>parámetros de opciones de "
+"íconos</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:246
@@ -2609,6 +2633,8 @@ msgid ""
 "<primary>windows</primary> <secondary>setting frame theme "
 "options</secondary>"
 msgstr ""
+"<primary>ventanas</primary><secondary>establecer opciones del tema de "
+"marcos</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:250
@@ -2651,7 +2677,7 @@ msgstr "Controles"
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:265
 msgid "<primary>GTK+ themes</primary><see>themes, controls options</see>"
-msgstr ""
+msgstr "<primary>Temas GTK</primary><see>temas, opciones de control</see>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:266
@@ -2692,7 +2718,7 @@ msgstr ""
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:278
 msgid "<primary>color themes</primary><see>themes, color options</see>"
-msgstr ""
+msgstr "<primary>temas de color</primary><see>temas, opciones de color</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:278
@@ -2723,11 +2749,15 @@ msgid ""
 "<primary>themes</primary><secondary>window frame "
 "options</secondary><tertiary>introduction</tertiary>"
 msgstr ""
+"<primary>temas</primary><secondary>opciones del marco de "
+"ventana</secondary><tertiary>introducción</tertiary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscustdesk.xml:287
 msgid "<primary>Marco themes</primary><see>themes, window frame options</see>"
 msgstr ""
+"<primary>Temas Marco</primary><see>temas,  opciones del marco de "
+"ventana</see>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:287
@@ -3345,7 +3375,7 @@ msgstr "<primary>tipografías</primary> <secondary>terminal</secondary>"
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:640
 msgid "<primary>fonts</primary> <secondary>rendering</secondary>"
-msgstr ""
+msgstr "<primary>tipografías</primary> <secondary>analizar</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:644
@@ -3452,7 +3482,7 @@ msgstr "Esta tipografía se usa en las barras de título de las ventanas."
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:679
 msgid "<guilabel>Fixed width font</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tipografía de anchura fijada</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:681
@@ -3480,7 +3510,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:692
 msgid "<guilabel>Rendering</guilabel>"
-msgstr ""
+msgstr "<guilabel>Analizar</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:694
@@ -3606,7 +3636,7 @@ msgstr "Preferencias de la interfaz"
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:803
 msgid "<primary>toolbars, customizing appearance</primary>"
-msgstr ""
+msgstr "<primary>barras de herramientas, personalizar apariencia</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:806
@@ -3614,6 +3644,8 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Menus &amp; "
 "Toolbars</secondary>"
 msgstr ""
+"<primary>herramientas de preferencias</primary> <secondary>Menús y Barras de"
+" herramientas</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:810
@@ -3621,6 +3653,8 @@ msgid ""
 "<primary>menus</primary> <secondary>in applications, customizing "
 "appearance</secondary>"
 msgstr ""
+"<primary>menús</primary> <secondary>en aplicaciones, personalizando "
+"apariencia</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:814
@@ -3649,7 +3683,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:819
 msgid "<guilabel>Show icons in menus</guilabel>"
-msgstr ""
+msgstr "<guilabel>Mostrar íconos dentro de los menús</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:821
@@ -3721,7 +3755,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:837
 msgid "<guilabel>Toolbar button labels</guilabel>"
-msgstr ""
+msgstr "<guilabel>Etiquetas del botón de la barra de herramientas</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:839
@@ -3780,11 +3814,14 @@ msgstr "Preferencias de las ventanas"
 #: C/goscustdesk.xml:870
 msgid "<primary>window manager</primary> <secondary>customizing</secondary>"
 msgstr ""
+"<primary>gestor de ventana</primary> <secondary>personalizar</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:874
 msgid "<primary>preference tools</primary> <secondary>Windows</secondary>"
 msgstr ""
+"<primary>herramientas de preferencias</primary> "
+"<secondary>Ventanas</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:878
@@ -3808,6 +3845,8 @@ msgstr ""
 #: C/goscustdesk.xml:899
 msgid "<guilabel>Select windows when the mouse moves over them</guilabel>"
 msgstr ""
+"<guilabel>Seleccione ventanas cuando el ratón vaya por encima de "
+"estas</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:904
@@ -3821,7 +3860,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:911
 msgid "<guilabel>Raise selected windows after an interval</guilabel>"
-msgstr ""
+msgstr "<guilabel>Elevar ventanas seleccionadas tras un intervalo</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:916
@@ -3835,7 +3874,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:922
 msgid "<guilabel>Interval before raising</guilabel>"
-msgstr ""
+msgstr "<guilabel>Intervalo antes de elevar</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:927
@@ -4747,6 +4786,8 @@ msgid ""
 "Select this option to enable others to access and control your session from "
 "a remote location."
 msgstr ""
+"Seleccione esta opción para activar otras para acceder y controlar su sesión"
+" desde un lugar remoto."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1304
@@ -4786,6 +4827,8 @@ msgid ""
 "Select the following security considerations when a user tries to view or "
 "control your session:<_:itemizedlist-1/>"
 msgstr ""
+"Seleccione las siguientes consideraciones de seguridad cuando un usuario "
+"intenta ver o controlar su sesión:<_:itemizedlist-1/>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1322
@@ -4815,6 +4858,8 @@ msgstr "Preferencias del teclado"
 #: C/goscustdesk.xml:1342
 msgid "<primary>preference tools</primary> <secondary>Keyboard</secondary>"
 msgstr ""
+"<primary>herramientas de preferencias</primary> "
+"<secondary>Teclado</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1346
@@ -4822,6 +4867,8 @@ msgid ""
 "<primary>keyboard</primary> <secondary>configuring general "
 "preferences</secondary>"
 msgstr ""
+"<primary>teclado</primary> <secondary>configurando preferencias "
+"generales</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1350
@@ -4840,6 +4887,8 @@ msgid ""
 "To open the <xref linkend=\"prefs-keyboard-a11y\"/> tool, click the "
 "<guibutton>Accessibility</guibutton> button."
 msgstr ""
+"Para abrir la <xref linkend=\"prefs-keyboard-a11y\"/> herramienta, pulse el "
+"botón de <guibutton>Accesibildad</guibutton>."
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1383
@@ -4863,6 +4912,8 @@ msgstr ""
 #: C/goscustdesk.xml:1405
 msgid "<guilabel>Key presses repeat when key is held down</guilabel>"
 msgstr ""
+"<guilabel>Las pulsaciones de tecla repiten cuando la tecla es mantenida "
+"apretada</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1410
@@ -5161,7 +5212,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1544
 msgid "<guilabel>Control key position</guilabel>"
-msgstr ""
+msgstr "<guilabel>Posición de tecla de control</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1545
@@ -5176,7 +5227,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1550
 msgid "<guilabel>Group Shift/Lock behavior</guilabel>"
-msgstr ""
+msgstr "<guilabel>Comportamiento de grupo  Mayús/Bloq. Mayús</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1551
@@ -5195,6 +5246,8 @@ msgstr ""
 #: C/goscustdesk.xml:1560
 msgid "<guilabel>Shift with numpad keys works as in MS Windows.</guilabel>"
 msgstr ""
+"<guilabel>Mayús con teclas numéricas funcionan como en MS "
+"Windows.</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1562
@@ -5224,6 +5277,8 @@ msgid ""
 "<guilabel>Special keys (Ctrl+Alt+&lt;key&gt;) handled in a "
 "server.</guilabel>"
 msgstr ""
+"<guilabel>Teclas especiales (Ctrl+Alt+&lt;tecla&gt;) manipulan dentro de un "
+"servidor.</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1566
@@ -5237,7 +5292,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:1572
 msgid "<guilabel>Third level choosers</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tercer nivel elije</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1574
@@ -5280,6 +5335,7 @@ msgstr ""
 #: C/goscustdesk.xml:1582
 msgid "<guilabel>Use keyboard LED to show alternative group.</guilabel>"
 msgstr ""
+"<guilabel>Utilice el LED del tecla para mostrar grupo alternativo</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:1584
@@ -5312,6 +5368,8 @@ msgid ""
 "<primary>AccessX</primary> <see>preference tools, Keyboard "
 "Accessibility</see>"
 msgstr ""
+"<primary>AccessX</primary> <see>herramienta de preferencia, Accesibilidad "
+"del Teclado</see>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1596
@@ -5319,12 +5377,15 @@ msgid ""
 "<primary>keyboard</primary> <secondary>configuring accessibility "
 "options</secondary>"
 msgstr ""
+"<primary>teclado</primary> <secondary>opciones de accesibilidad del "
+"teclado</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1600
 msgid ""
 "<primary>accessibility</primary> <secondary>configuring keyboard</secondary>"
 msgstr ""
+"<primary>accesibiidad</primary> <secondary>configurando teclado</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1604
@@ -5332,6 +5393,8 @@ msgid ""
 "<primary>preference tools</primary> <secondary>Keyboard "
 "Accessibility</secondary>"
 msgstr ""
+"<primary>herramientas de preferencia</primary> <secondary>Accesibilidad de "
+"Teclado</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:1613
@@ -5374,6 +5437,8 @@ msgid ""
 "<guilabel>Accessibility features can be toggled with keyboard "
 "shortcuts</guilabel>"
 msgstr ""
+"<guilabel>Características de accesibilidad pueden ser ajustadas con enlaces "
+"del teclado</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1641
@@ -5393,6 +5458,7 @@ msgstr ""
 #: C/goscustdesk.xml:1652
 msgid "<primary>accessibility</primary> <secondary>sticky keys</secondary>"
 msgstr ""
+"<primary>accesibilidad</primary> <secondary>teclas pegadas</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1658
@@ -5431,7 +5497,7 @@ msgstr ""
 #. (itstool) path: entry/indexterm
 #: C/goscustdesk.xml:1680
 msgid "<primary>accessibility</primary> <secondary>slow keys</secondary>"
-msgstr ""
+msgstr "<primary>accesibilidad</primary> <secondary>teclas lentas</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1686
@@ -5440,6 +5506,10 @@ msgid ""
 "before acceptance. Alternatively, to enable the slow keys feature, press-"
 "and-hold <keycap>Shift</keycap> for eight seconds."
 msgstr ""
+"Seleccione esta opción para controlar el período en que debe mantener "
+"pulsada una tecla antes de aceptación. Alternativamente, para activar la "
+"función de Teclas lentas, mantenga pulsada la tecla <keycap>Mayús</keycap> "
+"durante ocho segundos."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1697
@@ -5447,6 +5517,8 @@ msgid ""
 "Use the slider to specify the period that you must press-and-hold a key "
 "before acceptance."
 msgstr ""
+"Utilice el control deslizante para especificar el período en que se debe "
+"mantener pulsada una tecla antes de aceptarla."
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1704
@@ -5650,7 +5722,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1881 C/goscustdesk.xml:2078
 msgid "<guilabel>Acceleration</guilabel>"
-msgstr ""
+msgstr "<guilabel>Aceleración</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1886
@@ -5700,7 +5772,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1938
 msgid "<guilabel>Lock screen to enforce typing break</guilabel>"
-msgstr ""
+msgstr "<guilabel>Bloquea la pantalla para forzar salto de tecleo</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1943
@@ -5712,7 +5784,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1948
 msgid "<guilabel>Work interval lasts</guilabel>"
-msgstr ""
+msgstr "<guilabel>Último intervalo de trabajo </guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1953
@@ -5726,7 +5798,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1959
 msgid "<guilabel>Break interval lasts</guilabel>"
-msgstr ""
+msgstr "<guilabel>Último intervalo de ruptura</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:1964
@@ -5771,7 +5843,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:1995
 msgid "<primary>mouse</primary> <secondary>configuring</secondary>"
-msgstr ""
+msgstr "<primary>ratón</primary> <secondary>configurar</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2000
@@ -5828,7 +5900,7 @@ msgstr "Preferencias de botones del ratón"
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2039
 msgid "<guilabel>Right-handed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Diestro</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2044
@@ -5844,7 +5916,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2049
 msgid "<guilabel>Left-handed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Zurdo</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2054
@@ -5898,7 +5970,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2089
 msgid "<guilabel>Sensitivity</guilabel>"
-msgstr ""
+msgstr "<guilabel>Sensibilidad</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2094
@@ -5912,7 +5984,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2100
 msgid "<guilabel>Threshold</guilabel>"
-msgstr ""
+msgstr "<guilabel>Umbral</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2105
@@ -5927,7 +5999,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2112
 msgid "<guilabel>Timeout</guilabel>"
-msgstr ""
+msgstr "<guilabel>Espera</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2117
@@ -6126,7 +6198,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2247
 msgid "<guilabel>Choose type of click beforehand</guilabel>"
-msgstr ""
+msgstr "<guilabel>Elija el tipo de pulsación anterior</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2252
@@ -6140,7 +6212,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2258
 msgid "<guilabel>Show click type window</guilabel>"
-msgstr ""
+msgstr "<guilabel>Muestra el tipo de pulsación de la ventana</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2263
@@ -6164,7 +6236,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2271
 msgid "<guilabel>Choose type of click with mouse gestures</guilabel>"
-msgstr ""
+msgstr "<guilabel>Elija el tipo de pulsación con gestos del ratón</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2276
@@ -6182,7 +6254,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2281
 msgid "<guilabel>Single click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Pulsación única</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2286
@@ -6192,7 +6264,7 @@ msgstr "Elija la dirección para disparar un solo clic."
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2293
 msgid "<guilabel>Double click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Pulsación doble</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2298
@@ -6202,7 +6274,7 @@ msgstr "Elija la dirección para disparar una doble clic."
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2305
 msgid "<guilabel>Drag click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Arrastrar pulsación</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2310
@@ -6212,7 +6284,7 @@ msgstr "Elija la dirección para disparar un clic de arrastre."
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2317
 msgid "<guilabel>Secondary click</guilabel>"
-msgstr ""
+msgstr "<guilabel>Pulsación secundaria</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2322
@@ -6228,6 +6300,8 @@ msgstr "Monitores"
 #: C/goscustdesk.xml:2334
 msgid "<primary>preference tools</primary> <secondary>Display</secondary>"
 msgstr ""
+"<primary>herramientas preferenciales</primary> "
+"<secondary>Pantalla</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2338
@@ -6285,7 +6359,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2356
 msgid "<guilabel>Same image in all monitors</guilabel>"
-msgstr ""
+msgstr "<guilabel>La misma imagen en todos los monitores</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2357
@@ -6303,7 +6377,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2363
 msgid "<guilabel>Detect monitors</guilabel>"
-msgstr ""
+msgstr "<guilabel>Detectar monitores</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2364
@@ -6317,7 +6391,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2368
 msgid "<guilabel>Show monitors in panel</guilabel>"
-msgstr ""
+msgstr "<guilabel>Mostrar monitores dentro del panel</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2369
@@ -6360,7 +6434,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2387
 msgid "<guilabel>Resolution</guilabel>"
-msgstr ""
+msgstr "<guilabel>Resolución</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2388
@@ -6378,7 +6452,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2396
 msgid "<guilabel>Refresh rate</guilabel>"
-msgstr ""
+msgstr "<guilabel>Frecuencia de carga</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2397
@@ -6393,7 +6467,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/goscustdesk.xml:2406
 msgid "<guilabel>Rotation</guilabel>"
-msgstr ""
+msgstr "<guilabel>Rotación</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2407
@@ -6413,11 +6487,15 @@ msgstr "Preferencias del sonido"
 #: C/goscustdesk.xml:2415
 msgid "<primary>preference tools</primary> <secondary>Sound</secondary>"
 msgstr ""
+"<primary>herramientas de preferencias</primary> "
+"<secondary>Sonido</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2419
 msgid "<primary>sound</primary> <secondary>setting preferences</secondary>"
 msgstr ""
+"<primary>sonido</primary> <secondary>preferencias de "
+"configuración</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2423
@@ -6425,16 +6503,17 @@ msgid ""
 "<primary>sound</primary> <secondary>associating events with "
 "sounds</secondary>"
 msgstr ""
+"<primary>sonido</primary> <secondary>asociar eventos con sonidos</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2427
 msgid "<primary>events, associating sounds with</primary>"
-msgstr ""
+msgstr "<primary>eventos, asociar sonidos con</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2430
 msgid "<primary>volume</primary>"
-msgstr ""
+msgstr "<primary>volumen</primary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2433
@@ -6464,12 +6543,12 @@ msgstr "<guilabel>Evento de sonido</guilabel>"
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2445
 msgid "<guilabel>Input</guilabel>"
-msgstr ""
+msgstr "<guilabel>Entrada</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2450
 msgid "<guilabel>Output</guilabel>"
-msgstr ""
+msgstr "<guilabel>Salida</guilabel>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2455
@@ -6536,7 +6615,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2489
 msgid "<guilabel>Sound Theme </guilabel>"
-msgstr ""
+msgstr "<guilabel>Tema de Sonido</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2494
@@ -6628,7 +6707,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2555
 msgid "<guilabel>Input level</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nivel de entrada</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2560
@@ -6787,6 +6866,8 @@ msgstr "Preferencias de sesión"
 #: C/goscustdesk.xml:2668 C/gosstartsession.xml:178
 msgid "<primary>preference tools</primary> <secondary>Sessions</secondary>"
 msgstr ""
+"<primary>herramientas de "
+"preferencias</primary><secondary>Sesiones</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscustdesk.xml:2672
@@ -6829,12 +6910,12 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2690
 msgid "<guilabel>Session Options</guilabel>"
-msgstr ""
+msgstr "<guilabel>Opciones de Sesión</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscustdesk.xml:2695
 msgid "<guilabel>Startup Programs</guilabel>"
-msgstr ""
+msgstr "<guilabel>Programas al Arrancar</guilabel>"
 
 #. (itstool) path: info/title
 #: C/goscustdesk.xml:2701
@@ -6845,6 +6926,7 @@ msgstr "Configurar las preferencias de sesión"
 #: C/goscustdesk.xml:2702
 msgid "<primary>sessions</primary> <secondary>setting options</secondary>"
 msgstr ""
+"<primary>sesiones</primary> <secondary>opciones de parámetros</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2706
@@ -6875,6 +6957,8 @@ msgid ""
 "<guilabel>Automatically remember running applications when logging "
 "out</guilabel>"
 msgstr ""
+"<guilabel>Recuerde automáticamente ejecutar aplicaciones cuando "
+"salga</guilabel>"
 
 #. (itstool) path: entry/indexterm
 #: C/goscustdesk.xml:2732 C/goscustdesk.xml:2751
@@ -6901,7 +6985,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2746
 msgid "<guilabel>Remember currently running applications</guilabel>"
-msgstr ""
+msgstr "<guilabel>Recordar aplicaciones actualmente ejecutadas</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2755
@@ -6929,6 +7013,8 @@ msgid ""
 "<primary>startup applications</primary> <secondary>non-session-"
 "managed</secondary>"
 msgstr ""
+"<primary>aplicaciones al arrancar</primary> <secondary>gestionado sin "
+"sesión</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscustdesk.xml:2773
@@ -6977,7 +7063,7 @@ msgstr "Preferencias de los programas al inicio"
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2801
 msgid "<guilabel> Additional startup programs</guilabel>"
-msgstr ""
+msgstr "<guilabel> Programas de arranque adicionales</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscustdesk.xml:2806
@@ -7034,7 +7120,7 @@ msgstr "Este capítulo describe cómo usar la barra de menús del panel de MATE.
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:20
 msgid "<primary>menus</primary> <secondary>introduction</secondary>"
-msgstr ""
+msgstr "<primary>menús</primary> <secondary>introducción</secondary>"
 
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:24
@@ -7042,11 +7128,13 @@ msgid ""
 "<primary>menus</primary> <secondary>Classic Menu</secondary> <see>Classic "
 "Menu</see>"
 msgstr ""
+"<primary>menús</primary> <secondary>Menú clásico</secondary> <see>Menú "
+"clásico</see>"
 
 #. (itstool) path: chapter/indexterm
 #: C/goseditmainmenu.xml:29
 msgid "<primary>Classic Menu</primary> <secondary>introduction</secondary>"
-msgstr ""
+msgstr "<primary>Menú clásico</primary> <secondary>introducción</secondary>"
 
 #. (itstool) path: chapter/para
 #: C/goseditmainmenu.xml:34
@@ -7080,7 +7168,7 @@ msgstr "Menú Aplicaciones"
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:41
 msgid "<primary>menus</primary> <secondary>Applications menu</secondary>"
-msgstr ""
+msgstr "<primary>menús</primary> <secondary>menú de Aplicaciones</secondary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:45
@@ -7161,7 +7249,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:62
 msgid "Your Home folder"
-msgstr ""
+msgstr "Su carpeta Inicial"
 
 #. (itstool) path: listitem/para
 #: C/goseditmainmenu.xml:63
@@ -7247,7 +7335,7 @@ msgstr "Menú del sistema"
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:80
 msgid "<primary>System Menu</primary>"
-msgstr ""
+msgstr "<primary>Menú del sistema</primary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:83
@@ -7331,7 +7419,7 @@ msgstr "Personalizar la barra de menús del panel"
 #. (itstool) path: section/indexterm
 #: C/goseditmainmenu.xml:100
 msgid "<primary>menus</primary> <secondary>customizing</secondary>"
-msgstr ""
+msgstr "<primary>menú</primary> <secondary>personalización</secondary>"
 
 #. (itstool) path: section/para
 #: C/goseditmainmenu.xml:105
@@ -7623,7 +7711,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:98
 msgid "<application>Caja</application> in browser mode"
-msgstr ""
+msgstr "<application>Caja</application> en modo explorador"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -7688,7 +7776,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:118 C/goscaja.xml:179
 msgid "Three Folders Opened in Spatial Mode"
-msgstr ""
+msgstr "Tres Carpetas Abiertas en Modo Espacial"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -7711,6 +7799,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Three Folders Opened in"
 " Spatial Mode.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/caja_spatial_mode.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>Estas Carpetas Abiertas en"
+" Modo Espacial.</phrase></textobject>"
 
 #. (itstool) path: note/para
 #: C/goscaja.xml:131
@@ -7729,7 +7820,7 @@ msgstr "Modo espacial"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:143
 msgid "<primary>file manager</primary> <secondary>navigating</secondary>"
-msgstr ""
+msgstr "<primary>gestor de archivos</primary> <secondary>navegar</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:147
@@ -7824,11 +7915,13 @@ msgid ""
 "<primary>file manager</primary><secondary>icon "
 "view</secondary><tertiary>illustration</tertiary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>vista "
+"ícono</secondary><tertiary>ilustración"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:164
 msgid "Contents of a folder in a spatial mode.<_:indexterm-1/>"
-msgstr ""
+msgstr "Contenido de una carpeta en uno modo espacial.<_:indexterm-1/>"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -7851,6 +7944,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Displaying a folder in "
 "spatial mode.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/caja_spatial_view.png\" "
+"format=\"PNG\"/>Representar una carpeta en modo "
+"espacial.<phrase><textobject>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:177
@@ -8209,7 +8305,7 @@ msgstr "Modo navegador"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:352
 msgid "<primary>file manager</primary> <secondary>windows</secondary>"
-msgstr ""
+msgstr "<primary>gestor de archivo</primary><secondary>ventanas</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:356
@@ -8282,6 +8378,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase> A folder in a file "
 "browser window.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/caja_browser_mode.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>Una carpeta dentro de una "
+"ventana del explorador de archivo.</phrase></textobject>"
 
 #. (itstool) path: note/para
 #: C/goscaja.xml:379
@@ -8451,7 +8550,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:483
 msgid "<guilabel>Places</guilabel>"
-msgstr ""
+msgstr "<guilabel>Lugares</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:486
@@ -8461,7 +8560,7 @@ msgstr "Muestra lugares de interés particular."
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:489
 msgid "<guilabel>Information</guilabel>"
-msgstr ""
+msgstr "<guilabel>Información</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:492
@@ -8491,7 +8590,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:503
 msgid "<guilabel>History</guilabel>"
-msgstr ""
+msgstr "<guilabel>Historial</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:506
@@ -8515,7 +8614,7 @@ msgstr "Le permite añadir notas a los archivos y las carpetas."
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:516
 msgid "<guilabel>Emblems</guilabel>"
-msgstr ""
+msgstr "<guilabel>Emplemas</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:519
@@ -8542,6 +8641,8 @@ msgid ""
 "<primary>file manager</primary> <secondary>window components, showing and "
 "hiding</secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>componentes de ventana, "
+"mostrando y ocultando</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:572
@@ -8634,7 +8735,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:604
 msgid "<guilabel>Button bar</guilabel>"
-msgstr ""
+msgstr "<guilabel>Barra de botón</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:605
@@ -8662,7 +8763,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:607
 msgid "The button bar"
-msgstr ""
+msgstr "La barra del botón"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -8685,11 +8786,14 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>The button "
 "bar.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/caja_button_bar.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>La barra del "
+"botón.</phrase></textobject>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:621
 msgid "<guilabel>Text Location Bar</guilabel>"
-msgstr ""
+msgstr "<guilabel>Barra del lugar</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:622
@@ -8746,7 +8850,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:626
 msgid "The location bar"
-msgstr ""
+msgstr "La barra del lugar"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -8769,11 +8873,14 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>The location "
 "bar.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/caja_go_to_location.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>La barra del "
+"lugar.</phrase></textobject>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:640
 msgid "<guilabel>Search bar</guilabel>"
-msgstr ""
+msgstr "<guilabel>Barra de búsqueda</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:641
@@ -8788,7 +8895,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:642 C/goscaja.xml:980
 msgid "The search bar"
-msgstr ""
+msgstr "La barra de búsqueda"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -8811,6 +8918,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>The search "
 "bar.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/caja_search_bar.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>La barra de "
+"búsqueda.</phrase></textobject>"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:658
@@ -8821,6 +8931,7 @@ msgstr "Mostrar su carpeta personal"
 #: C/goscaja.xml:659
 msgid "<primary>file manager</primary> <secondary>Home folder</secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>Carpeta inicio</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:672
@@ -8987,11 +9098,12 @@ msgstr "Usar el árbol del panel lateral"
 #: C/goscaja.xml:736
 msgid "<primary>file manager</primary> <secondary>Tree, using </secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>Árbol, utilizando</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:740
 msgid "<primary>Tree, using</primary>"
-msgstr ""
+msgstr "<primary>Árbol, utilizando</primary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:743
@@ -9016,6 +9128,8 @@ msgid ""
 "In the <guilabel>Tree</guilabel> view, open folders are represented as "
 "downwards facing arrows."
 msgstr ""
+"En la vista <guilabel>Árbol</guilabel>, las carpetas abiertas son "
+"representadas como descargas similares a flechas."
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:747
@@ -9122,6 +9236,8 @@ msgid ""
 "<primary>file manager</primary> <secondary>navigating history "
 "list</secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>listado de historial de "
+"exploración</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:827
@@ -9226,7 +9342,7 @@ msgstr "Navegar por el historial usando el panel lateral"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:863
 msgid "<primary>file manager</primary> <secondary>History</secondary>"
-msgstr ""
+msgstr "<primary>gestor de archivo</primary><secondary>Historial</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:867
@@ -9259,6 +9375,7 @@ msgstr "Abrir archivos"
 #: C/goscaja.xml:880
 msgid "<primary>file manager</primary> <secondary>opening files</secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>abrir archivos</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:884
@@ -9444,6 +9561,8 @@ msgstr "Modificar acciones"
 msgid ""
 "<primary>file manager</primary> <secondary>modifying actions</secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>modificar "
+"acciones</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:951
@@ -9498,6 +9617,7 @@ msgstr "Buscar archivos"
 #: C/goscaja.xml:975
 msgid "<primary>file manager</primary> <secondary>searching files</secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>buscar archivos</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:979
@@ -9530,7 +9650,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:993
 msgid "The result of a search"
-msgstr ""
+msgstr "El resultado de una búsqueda"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9567,7 +9687,7 @@ msgstr ""
 #. (itstool) path: info/title
 #: C/goscaja.xml:1006
 msgid "Restricting a search"
-msgstr ""
+msgstr "Restringir una búsqueda"
 
 #. (itstool) path: imageobject/imagedata
 #. This is a reference to an external file such as an image or video. When
@@ -9590,6 +9710,8 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Restricting a "
 "search.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/caja_refine_search.png\" "
+"format=\"PNG\"/><textobject><phrase>Restringir una búsqueda"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:1019
@@ -11437,6 +11559,8 @@ msgid ""
 "<primary>symbolic link</primary> <secondary>to file or folder, "
 "creating</secondary>"
 msgstr ""
+"<primary>enlace simbólico</primary><secondary>Para crear un archivo, "
+"cree</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:1996
@@ -11505,6 +11629,8 @@ msgstr "Ver las propiedades de un archivo o una carpeta"
 msgid ""
 "<primary>file manager</primary> <secondary>viewing properties</secondary>"
 msgstr ""
+"<primary>Gestor de archivo</primary><secondary>propiedades de "
+"vista</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2020
@@ -11808,7 +11934,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2178
 msgid "<primary>permissions</primary> <secondary>changing file</secondary>"
-msgstr ""
+msgstr "<primary>permisos <secondary>cambiar archivo</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2182
@@ -12061,7 +12187,7 @@ msgstr ""
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:2312
 msgid "<primary>notes</primary><secondary>deleting</secondary>"
-msgstr ""
+msgstr "<primary>anotaciones</primary><secondary>borrar</secondary>"
 
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:2312
@@ -12069,6 +12195,8 @@ msgid ""
 "<primary>file "
 "manager</primary><secondary>notes</secondary><tertiary>deleting</tertiary>"
 msgstr ""
+"<primary>gestor de "
+"archivo</primary><secondary>notas</secondary><tertiary>borrar</tertiary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2312
@@ -12438,7 +12566,7 @@ msgstr "Para vaciar la papelera"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2484
 msgid "<primary>Trash</primary> <secondary>emptying</secondary>"
-msgstr ""
+msgstr "<primary>Basura</primary><secondary>vaciar</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2488
@@ -12547,7 +12675,7 @@ msgstr "Ocultar un archivo o una carpeta"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2526
 msgid "<primary>create</primary> <secondary>hidden</secondary>"
-msgstr ""
+msgstr "<primary>crear</primary><secondary>ocultado</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2530
@@ -12592,11 +12720,14 @@ msgstr "Propiedades del elemento"
 #: C/goscaja.xml:2543
 msgid "<primary>file manager</primary> <secondary>properties</secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>propiedades</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2547
 msgid "<primary>file manager</primary> <secondary>file properties</secondary>"
 msgstr ""
+"<primary>gestor de archivo</primary> <secondary>propiedades del "
+"fichero</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2551
@@ -12674,6 +12805,7 @@ msgid ""
 "Choose <menuchoice> "
 "<guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>."
 msgstr ""
+"Elija<menuchoice>Archivo<guimenu><guimenuitem>Propiedades</menuchoice>"
 
 #. (itstool) path: listitem/para
 #: C/goscaja.xml:2568
@@ -13293,6 +13425,8 @@ msgid ""
 "<primary>removable media</primary> <secondary>displaying media "
 "contents</secondary>"
 msgstr ""
+"<primary>Medio extraíble</primary><secondary>contenido del medio a "
+"representar</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2890
@@ -13337,6 +13471,8 @@ msgid ""
 "<primary>removable media</primary> <secondary>displaying media "
 "properties</secondary>"
 msgstr ""
+"<primary>medio extraíble</primary> <secondary>representado propiedades del "
+"medio</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2909
@@ -13366,7 +13502,7 @@ msgstr "Para expulsar soportes"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2915
 msgid "<primary>removable media</primary> <secondary>ejecting</secondary>"
-msgstr ""
+msgstr "<primary>medio extraíble</primary> <secondary>expulsar</secondary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:2919
@@ -13440,16 +13576,18 @@ msgstr "Grabar CD o DVD"
 #: C/goscaja.xml:2950
 msgid "<primary>file manager</primary> <secondary>writing CDs</secondary>"
 msgstr ""
+"<primary>gestor de de archivo</primary> <secondary>escribir a los "
+"CD</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2954
 msgid "<primary>CDs, writing</primary>"
-msgstr ""
+msgstr "<primary>CDs, escibir</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2957
 msgid "<primary>writing CDs</primary>"
-msgstr ""
+msgstr "<primary>escribiendo los CD</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:2960
@@ -13564,7 +13702,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3009
 msgid "<guilabel>Write disc to</guilabel>"
-msgstr ""
+msgstr "<guilabel>Escribir disco s</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3014
@@ -13578,7 +13716,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3020
 msgid "<guilabel>Disc name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nombre de disco</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3025
@@ -13588,7 +13726,7 @@ msgstr "Escriba un nombre para el CD en el cuadro de texto."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3030
 msgid "<guilabel>Data size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tamaño del dato</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3035
@@ -13602,7 +13740,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3041
 msgid "<guilabel>Write speed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Velocidad de escritura</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3046
@@ -13783,7 +13921,7 @@ msgstr "Para acceder a un servidor remoto"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:3098
 msgid "<primary>FTP sites</primary> <secondary>accessing</secondary>"
-msgstr ""
+msgstr "<primary>Sitios FTP</primary><secondary>acceder</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:3102
@@ -13838,7 +13976,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3130
 msgid "<guilabel>Port</guilabel>"
-msgstr ""
+msgstr "<guilabel>Puerto</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3135
@@ -13852,7 +13990,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3141
 msgid "<guilabel>Folder</guilabel>"
-msgstr ""
+msgstr "<guilabel>Carpeta</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3146
@@ -13862,7 +14000,7 @@ msgstr "Carpeta que abrir al conectarse al servidor."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3151
 msgid "<guilabel>User Name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nombre de Usuario</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3156
@@ -13878,7 +14016,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3163
 msgid "<guilabel>Name to use for connection</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nombre para utilizar para conexión</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3168
@@ -13890,7 +14028,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3173
 msgid "<guilabel>Share</guilabel>"
-msgstr ""
+msgstr "<guilabel>Compartir</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3178
@@ -13903,7 +14041,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3183
 msgid "<guilabel>Domain name</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nombre de dominio</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3188
@@ -13944,7 +14082,7 @@ msgstr "Para acceder a lugares de red"
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:3206
 msgid "<primary>network places</primary> <secondary>accessing</secondary>"
-msgstr ""
+msgstr "<primary>lugares de red</primary><secondary>acceder</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:3210
@@ -13952,6 +14090,8 @@ msgid ""
 "<primary>file manager</primary> <secondary>network places</secondary> "
 "<see>network places</see>"
 msgstr ""
+"<primary>gestor de archivo</primary><secondary>lugar de "
+"red</secondary><see>lugares de red</see>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:3215
@@ -13980,7 +14120,7 @@ msgstr ""
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:3220
 msgid "<primary>NFS servers</primary><see>Unix network</see>"
-msgstr ""
+msgstr "<primary>Servidores NFS</primary><see>Red Unix</see>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:3220
@@ -14558,6 +14698,8 @@ msgid ""
 "<primary>file manager</primary> <secondary>icons</secondary> "
 "<tertiary>caption preferences</tertiary>"
 msgstr ""
+"<primary>gestor de archivo</primary> <secondary>iconos</secondary> "
+"<tertiary>preferencias de captación</tertiary>"
 
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:3560
@@ -14565,6 +14707,9 @@ msgid ""
 "<primary>file manager</primary> <secondary>preferences</secondary> "
 "<tertiary>icon captions</tertiary>"
 msgstr ""
+"<primary>gestor de "
+"archivo</primary><secondary>preferencias</secondary><tertiary>capturas de "
+"íconos</tertiary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:3565
@@ -14642,7 +14787,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3615 C/goscaja.xml:3767
 msgid "<guilabel>Date Modified</guilabel>"
-msgstr ""
+msgstr "<guilabel>Fecha Modificada</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3620 C/goscaja.xml:3772
@@ -14653,7 +14798,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3625 C/goscaja.xml:3777
 msgid "<guilabel>Date Accessed</guilabel>"
-msgstr ""
+msgstr "<guilabel>Datos Accedidos</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3630 C/goscaja.xml:3782
@@ -14666,7 +14811,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3635 C/goscaja.xml:3818
 msgid "<guilabel>Owner</guilabel>"
-msgstr ""
+msgstr "<guilabel>Propietario</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3640 C/goscaja.xml:3823
@@ -14676,7 +14821,7 @@ msgstr "Elija esta opción para mostrar el propietario del elemento."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3645 C/goscaja.xml:3787
 msgid "<guilabel>Group</guilabel>"
-msgstr ""
+msgstr "<guilabel>Grupo</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3650 C/goscaja.xml:3792
@@ -14686,7 +14831,7 @@ msgstr "Elija esta opción para mostrar el grupo al que pertenece el elemento."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3655 C/goscaja.xml:3828
 msgid "<guilabel>Permissions</guilabel>"
-msgstr ""
+msgstr "<guilabel>Permisos</guilabel>"
 
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:3660 C/goscaja.xml:3833
@@ -14694,6 +14839,8 @@ msgid ""
 "<primary>permissions</primary><secondary>displaying as "
 "characters</secondary>"
 msgstr ""
+"permisos\n"
+"<primary>permisos</primary><secondary>representando un carácter</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3660 C/goscaja.xml:3833
@@ -14706,7 +14853,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3667 C/goscaja.xml:3807
 msgid "<guilabel>Octal Permissions</guilabel>"
-msgstr ""
+msgstr "<guilabel>Permisos Octales</guilabel>"
 
 #. (itstool) path: para/indexterm
 #: C/goscaja.xml:3672 C/goscaja.xml:3812
@@ -14714,6 +14861,8 @@ msgid ""
 "<primary>permissions</primary><secondary>displaying in octal "
 "notation</secondary>"
 msgstr ""
+"<primary>permisios</primary><secondary>representar en notación "
+"octal</secondary>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3672 C/goscaja.xml:3812
@@ -14721,11 +14870,13 @@ msgid ""
 "<_:indexterm-1/>Choose this option to display the permissions of the item in"
 " octal notation, for example <computeroutput>764</computeroutput>."
 msgstr ""
+"<_:indexterm-1/>Elija esta opción para representar los permisos en el ítem "
+"en notación octal, por ejemplo <computeroutput>764</computeroutput>."
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3678
 msgid "<guilabel>MIME Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tipo MIME</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3683 C/goscaja.xml:3802
@@ -14735,7 +14886,7 @@ msgstr "Elija esta opción para mostrar el tipo MIME del elemento."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3688
 msgid "<guilabel>None</guilabel>"
-msgstr ""
+msgstr "<guilabel>Ninguno</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3693
@@ -14836,7 +14987,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3797
 msgid "<guilabel>MIME type</guilabel>"
-msgstr ""
+msgstr "Tipo MIME"
 
 #. (itstool) path: info/title
 #: C/goscaja.xml:3843 C/goscaja.xml:3908 C/goscaja.xml:4060
@@ -14869,7 +15020,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3872
 msgid "<guilabel>Always</guilabel>"
-msgstr ""
+msgstr "<guilabel>Siempre</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3877
@@ -14882,7 +15033,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3883
 msgid "<guilabel>Local Files Only</guilabel>"
-msgstr ""
+msgstr "<guilabel>Solo Archivos Locales</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3888
@@ -14892,7 +15043,7 @@ msgstr "Realiza la acción solo para archivos locales."
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3893
 msgid "<guilabel>Never</guilabel>"
-msgstr ""
+msgstr "<guilabel>Nunca</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:3898
@@ -15149,7 +15300,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/goscaja.xml:4113
 msgid "<primary>scripts, running from file manager</primary>"
-msgstr ""
+msgstr "<primary>guiones, ejecutando desde el gestor de fichero</primary>"
 
 #. (itstool) path: section/para
 #: C/goscaja.xml:4116
@@ -15284,7 +15435,7 @@ msgstr ""
 #. (itstool) path: section/para
 #: C/goscaja.xml:4141
 msgid "The following table shows variables passed to the script:"
-msgstr ""
+msgstr "La siguiente tabla muestra variables pasadas al guion:"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4149
@@ -15294,7 +15445,7 @@ msgstr "Variable de entorno"
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4159
 msgid "<guilabel>CAJA_SCRIPT_SELECTED_FILE_PATHS</guilabel>"
-msgstr ""
+msgstr "<guilabel>CAJA_SCRIPT_SELECTED_FILE_PATHS</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4164
@@ -15306,7 +15457,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4169
 msgid "<guilabel>CAJA_SCRIPT_SELECTED_URIS</guilabel>"
-msgstr ""
+msgstr "<guilabel>CAJA_SCRIPT_SELECTED_URIS</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/goscaja.xml:4174
@@ -15399,6 +15550,8 @@ msgid ""
 "Some popular <application>Caja</application> extensions include: "
 "<_:orderedlist-1/>"
 msgstr ""
+"Algunas extensiones populares de <application>Caja</application> "
+"incluye:<_:orderedlist-1/>"
 
 #. (itstool) path: note/para
 #: C/goscaja.xml:4222
@@ -15951,6 +16104,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Titlebar of application"
 " window frame.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/titlebar_window.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>Barra titular del marco de"
+" ventana de la aplicación.</phrase></textobject>"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:214
@@ -15998,6 +16154,10 @@ msgid ""
 "<keycap>Alt</keycap><keycap>F7</keycap></keycombo>, and then either move the"
 " mouse or press the keyboard arrow keys to move the window."
 msgstr ""
+"Además puede elegir Mover desde el Menú de Ventana, o presione "
+"<keycombo><keycap>Alt</keycap><keycap>F7</keycap></keycombo>, y después "
+"mueva el ratón o presione las teclas de flecha del teclado para mover la "
+"ventana."
 
 #. (itstool) path: listitem/para
 #: C/gosoverview.xml:225
@@ -16275,7 +16435,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gosoverview.xml:331
 msgid "<primary>workspaces</primary> <secondary>overview</secondary>"
-msgstr ""
+msgstr "<secondary>Vista previa</secondary> del <primary>pupitre</primary>"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:335
@@ -16335,6 +16495,9 @@ msgid ""
 "format=\"PNG\"/> </imageobject> <textobject> <phrase>Workspace Switcher. The"
 " context describes the graphic.</phrase> </textobject>"
 msgstr ""
+"<imageobject><imagedata fileref=\"figures/workspace_switcher_applet.png\" "
+"format=\"PNG\"/></imageobject><textobject><phrase>Intercambio de pupitre. El"
+" contexto describe el gráfico.</phrase></textobject>"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:352
@@ -16451,6 +16614,7 @@ msgstr "Añadir áreas de trabajo"
 msgid ""
 "<primary>workspaces</primary> <secondary>specifying number of</secondary>"
 msgstr ""
+"<primary>pupitres</primary> <secondary>especificando número de</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosoverview.xml:389
@@ -17356,6 +17520,7 @@ msgstr ""
 #: C/gospanel.xml:78
 msgid "<_:indexterm-1/> <application>Window Selector</application> icon"
 msgstr ""
+"<_:indexterm-1/>Icono del <application>Selector de Ventana</application>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:84
@@ -17483,7 +17648,7 @@ msgstr "Mover un panel"
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:138
 msgid "<primary>panels</primary> <secondary>moving</secondary>"
-msgstr ""
+msgstr "<primary>paneles</primary> <secondary>moviendo</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:142
@@ -17517,7 +17682,7 @@ msgstr "Propiedades del panel"
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:149
 msgid "<primary>panels</primary> <secondary>modifying properties</secondary>"
-msgstr ""
+msgstr "<primary>paneles <secondary>modificando propiedades</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:153
@@ -17561,7 +17726,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:178
 msgid "<guilabel>Orientation</guilabel>"
-msgstr ""
+msgstr "<guilabel>Orientación</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:183
@@ -17580,7 +17745,7 @@ msgstr "Use el cuadro de número para especificar el tamaño máximo del panel."
 #. (itstool) path: entry/para
 #: C/gospanel.xml:199
 msgid "<guilabel>Expand</guilabel>"
-msgstr ""
+msgstr "<guilabel>Expandir</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:204
@@ -17596,7 +17761,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:209
 msgid "<guilabel>Autohide</guilabel>"
-msgstr ""
+msgstr "<guilabel>Auto-ocultar</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:214
@@ -17615,7 +17780,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:219 C/gospanel.xml:1442
 msgid "<guilabel>Show hide buttons</guilabel>"
-msgstr ""
+msgstr "<guilabel>Muestra botones ocultos</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:224
@@ -17634,7 +17799,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:230 C/gospanel.xml:1453
 msgid "<guilabel>Arrows on hide buttons</guilabel>"
-msgstr ""
+msgstr "<guilabel>Flechas en el botón ocultar</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:235
@@ -17675,7 +17840,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:273
 msgid "<guilabel>Solid color</guilabel>"
-msgstr ""
+msgstr "<guilabel>Color sólido</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:278
@@ -17704,7 +17869,7 @@ msgstr ""
 #. (itstool) path: entry/para
 #: C/gospanel.xml:289
 msgid "<guilabel>Background image</guilabel>"
-msgstr ""
+msgstr "<guilabel>Imagen del fondo</guilabel>"
 
 #. (itstool) path: entry/para
 #: C/gospanel.xml:294
@@ -17720,7 +17885,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:304
 msgid "<primary>panels</primary> <secondary>changing background</secondary>"
-msgstr ""
+msgstr "<primary>paneles</primary> <secondary>cambiando el fondo</secondary>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:311
@@ -18973,7 +19138,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:979
 msgid "<primary>action buttons</primary> <see>buttons</see>"
-msgstr ""
+msgstr "<primary>botones acción</primary> <see>botones</see>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:983
@@ -19003,7 +19168,7 @@ msgstr ""
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:995
 msgid "<primary>Force Quit button</primary>"
-msgstr ""
+msgstr "<primary>Forzar botón Salir</primary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:998
@@ -19465,7 +19630,7 @@ msgstr "Botón de mostrar el escritorio"
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1220
 msgid "<primary>buttons</primary> <secondary>Minimize Windows</secondary>"
-msgstr ""
+msgstr "<primary>botones</primary> <secondary>Minimizar Ventanas</secondary>"
 
 #. (itstool) path: section/indexterm
 #: C/gospanel.xml:1224
@@ -19622,6 +19787,8 @@ msgid ""
 "<primary>panel objects</primary> <secondary>drawers</secondary> "
 "<see>drawers</see>"
 msgstr ""
+"<primary>objetos panel</primary> <secondary>cajones</secondary> "
+"<see>cajones</see>"
 
 #. (itstool) path: section/para
 #: C/gospanel.xml:1304
@@ -20376,7 +20543,7 @@ msgstr ""
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1679
 msgid "<guilabel>Restore to native workspace</guilabel>"
-msgstr ""
+msgstr "<guilabel>Restaurar a pupitre nativo</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gospanel.xml:1680
@@ -20421,7 +20588,7 @@ msgstr "Iniciar una sesión"
 #. (itstool) path: section/indexterm
 #: C/gosstartsession.xml:19
 msgid "<primary>sessions</primary> <secondary>starting</secondary>"
-msgstr ""
+msgstr "<primary>sesiones</primary> <secondary>comenzando</secondary>"
 
 #. (itstool) path: section/para
 #: C/gosstartsession.xml:23
@@ -21330,7 +21497,7 @@ msgstr "Toma una captura incluyendo el borde de la ventana."
 #. (itstool) path: entry/para
 #: C/gostools.xml:195
 msgid "<command>--remove-border</command>"
-msgstr ""
+msgstr "<command>--remove-border</command>"
 
 #. (itstool) path: entry/para
 #: C/gostools.xml:200
@@ -21531,7 +21698,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:334
 msgid "<guimenu>Edit</guimenu>"
-msgstr ""
+msgstr "<guimenu>Editar</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:337
@@ -21570,7 +21737,7 @@ msgstr "Use este menú para Añadir marcadore(s), o Editar marcadores(s)."
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:363
 msgid "<guimenu>Help</guimenu>"
-msgstr ""
+msgstr "<guimenu>Ayuda</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:366
@@ -21843,6 +22010,8 @@ msgid ""
 "<_:itemizedlist-1/>A window will appear that looks like <xref "
 "linkend=\"yelp-preferences\"/>:"
 msgstr ""
+"<_:itemizedlist-1/>Una ventana aparecerá que parece como <xref "
+"linkend=\"yelp-preferences\"/>:"
 
 #. (itstool) path: info/title
 #: C/gostools.xml:557
@@ -21875,7 +22044,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:568
 msgid "<guilabel>Use system fonts</guilabel>"
-msgstr ""
+msgstr "<guilabel>Utilizar tipografías del sistema</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:571
@@ -22373,7 +22542,7 @@ msgstr ""
 #: C/gostools.xml:896
 #, no-wrap
 msgid "<userinput>yelp help:mate-terminal</userinput>"
-msgstr ""
+msgstr "<userinput>yelp help:mate-terminal</userinput>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:898
@@ -22391,7 +22560,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:906
 msgid "<option>man:</option>"
-msgstr ""
+msgstr "<option>man:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:909
@@ -22425,7 +22594,7 @@ msgstr ""
 #. (itstool) path: varlistentry/term
 #: C/gostools.xml:926
 msgid "<option>info:</option>"
-msgstr ""
+msgstr "<option>info:</option>"
 
 #. (itstool) path: listitem/para
 #: C/gostools.xml:929
